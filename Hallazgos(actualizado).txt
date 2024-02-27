@@ -1,0 +1,85 @@
+ARCHIVO: ALTERNATIVE FUEL
+
+La eficiencia de combustible no convencional es superior a la de combustible convencional.En ciudad el combustble no convencional alcanza los 84.59 millas/galón, mientras que el combustible convencional alcanza en promedio 25.90 millas/galon en ciudad.
+Hay que tener cuidado en lo que es combustible convenvional y no convencional, pues el datagrame consdiera como convencional autos hibridos. Sólo deja fuera de los convencionales a los autos eléctricos.
+
+Aquì los autos más eficientes con combustibles alternativos:
+
+Categoría	Modelo	Año_modelo	Marca_auto	m/g_Alt_Combinada
+555	Sedan/Wagon	Model 3 Standard Range Plus RWD	2021.0	Tesla	142.0
+553	Sedan/Wagon	Model 3 Long Range AWD	2021.0	Tesla	134.0
+296	Sedan/Wagon	Prius Prime	2022.0	Toyota	133.0
+577	Sedan/Wagon	Prius Prime	2021.0	Toyota	133.0
+445	Sedan/Wagon	Ioniq Electric	2021.0	Hyundai	133.0
+
+Los autos mas eficientes con comustible convencioanl:
+	Categoría	Modelo	Año_modelo	Marca_auto	m/g_Conv_Combinada
+143	Sedan/Wagon	Ioniq Blue	2022.0	Hyundai	59.0
+444	Sedan/Wagon	Ioniq Blue	2021.0	Hyundai	59.0
+295	Sedan/Wagon	Prius Eco	2022.0	Toyota	56.0
+576	Sedan/Wagon	Prius Eco	2021.0	Toyota	56.0
+443	Sedan/Wagon	Ioniq	2021.0	Hyundai	55.0
+
+ARCHIVO: ALTERNATIVE_STATIONS
+
+Las fechas de última confirmación y apertura varían desde 2017 hasta 2022, con la mayoría de las confirmaciones y aperturas concentradas en fechas más recientes, lo que sugiere una tendencia hacia la expansión reciente de la infraestructura de carga de autos eléctricos.
+
+Las ciudades con más estaciones que cargan autos eléctricos:
+Ciudad
+Los Angeles      1584
+San Diego         918
+Atlanta           608
+San Jose          587
+Irvine            580
+Austin            576
+Kansas City       463
+San Francisco     453
+Seattle           429
+Boston            396
+dtype: int64
+
+ARCHIVO: TAXI ZONE
+
+podemos apreciar que Queens es donde hay más zonas de taxis
+
+Barrio
+Queens           69
+Manhattan        69
+Brooklyn         61
+Bronx            43
+Staten Island    20
+Unknown           2
+EWR               1
+
+
+
+El servicio que más se utiliza para taxis es la borezone. Estas zonas de distrito se refieren a áreas fuera del corazón central de Manhattan, cubriendo los otros cuatro boroughs de Nueva York (Brooklyn, Queens, Bronx y Staten Island).
+
+ARCHIVOS: ELECTRIC CAR DATA(NORMALIZADO Y LIMPIO)
+El dataset normalizado probablemnte alude a que los datos han sido escalados o transformados para que estén dentro de un rango específico, lo que es común en la preparación de datos para modelos de machine learning donde se requiere que todas las entradas tengan una escala uniforme.
+Mientras que el dataset limpio probablemente alude a que los datos han sido procesados para remover o corregir valores faltantes, erróneos o atípicos (outliers), la eliminación de duplicados, la estandarización de textos, etc.
+
+Las conclusiones de ambos dataset:
+La autonomía promedio de un auto elèctrico es bastante alta. Sobre los 300 kilómetros, por lo que no es necesario la recarga diaria. Con todo, se presenta una gran variabilidad en los datos.
+La eficencia en promedio de los autos està en torno a los 190 Wh/km.
+La carga ràpida promedio està sobre los 450 kms. Es decir, en una hora pueden cargar en torno 450 kms. De nuevo, este valor es el promedio, pero hay que atender la variabilidad(desviación estàndar que es de 200 kms/hora aproximadamente).
+En promedio, el valor de los autos electricos està en torno a los 55 mil euros. Los rangos van entre los 20 mil euros (aprox) y los 215 mil euros (aprox).
+
+ARCHIVO: LIGHT DUTY
+El dataset abarca modelos desde 1991 hasta 2022, con una concentración promedio en el año 2014. Los vehículos con combustible alternativo varían ampliamente en eficiencia, con 38.4 m/g en ciudad y 37.4 m/g en carretera. 
+La eficiencia combinada de estos es de 72.1 m/g, indicando mayor variabilidad en la eficiencia de combustible alternativo que en la convencional, la cual promedia 22.8 m/g en ciudad y 27.4 m/g en carretera. 
+Los vehículos eléctricos muestran una autonomía promedio de 148 km, con una notable variabilidad que va desde los 8 km hasta los 520 km, reflejando la diversidad en el rendimiento eléctrico dentro del conjunto o, lo màs probable, presencia de datos erròneos que deben ser tratados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
