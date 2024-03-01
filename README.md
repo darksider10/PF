@@ -44,32 +44,32 @@ Determinar el programa de restricción vehicular.
 Requerimientos dentro del alcance del proyecto
 Este proyecto es realizado en un plazo de 4 semanas desde el 26 de febrero de 2024 por el equipo de desarrollo de profesionales de Data consolidando en la entrega un conjunto de productos y herramientas digitales basado en información histórica del negocio del año 2017 al 2023:
 
-Pipelines de ETL (Extract, Transform and Load)
+Pipelines de ETL (Extract, Transform and Load).
 
-Automatización de los procesos de ETL
+Automatización de los procesos de ETL.
 
-Informe EDA (Exploratory Data Analysis)
+Informe EDA (Exploratory Data Analysis).
 
-Data Warehouse on cloud junto con el Modelo Entidad-Relación
+Data Warehouse on cloud junto con el Modelo Entidad-Relación.
 
-Validación de datos
+Validación de datos.
 
-Dashboard con métricas, KPIs y conclusiones del análisis
+Dashboard con métricas, KPIs y conclusiones del análisis.
 
-Implementación	de	Modelos	de	Machine	Learning	(Motor	de recomendación)
+Implementación	de	Modelos	de	Machine	Learning	(Motor	de recomendación).
 
-Documentación
+Documentación.
 
-Informe de propuesta del proyecto
+Informe de propuesta del proyecto.
 
-Diccionario y estructura de datos (Análisis de datos)
+Diccionario y estructura de datos (Análisis de datos).
 
-Diagrama Entidad-Relación detallado
+Diagrama Entidad-Relación detallado.
 
-Workﬂow del stack tecnológico 
+Workﬂow del stack tecnológico. 
 
-Informe de Análisis de business intelligence 
+Informe de Análisis de business intelligence.
 
-Documentación de Feature Engineering y modelado
+Documentación de Feature Engineering y modelado.
 
 
