@@ -1,0 +1,779 @@
+IDVehiculo,IDCombustible,IDFabricante,IDCategoria,Modelo,AñoModelo,Fabricante,Categoría,Combustible
+13002,41,377,29,e-tron quattro,2022,Audi,SUV,Electric
+12950,41,377,29,"e-tron S (20"" wheels)",2022,Audi,SUV,Electric
+12951,41,377,29,"e-tron S (21"" or 22"" wheels)",2022,Audi,SUV,Electric
+13001,41,377,29,e-tron Sportback quattro,2022,Audi,SUV,Electric
+12952,41,377,29,"e-tron S Sportback (20"" wheels)",2022,Audi,SUV,Electric
+12953,41,377,29,"e-tron S Sportback (21"" or 22"" wheels)",2022,Audi,SUV,Electric
+12954,41,377,29,Q4 e-tron quattro,2022,Audi,SUV,Electric
+12955,41,377,29,Q4 e-tron Sportback quattro,2022,Audi,SUV,Electric
+13023,45,377,29,Q5 quattro,2022,Audi,SUV,Hybrid Electric
+12795,45,377,29,Q5 S line quattro,2022,Audi,SUV,Hybrid Electric
+12796,45,377,29,Q5 Sportback S line quattro,2022,Audi,SUV,Hybrid Electric
+12797,45,377,29,Q7 quattro,2022,Audi,SUV,Hybrid Electric
+12798,45,377,29,Q8 quattro,2022,Audi,SUV,Hybrid Electric
+12956,41,377,29,RS e-tron GT,2022,Audi,SUV,Electric
+13050,41,211,29,"iX xDrive50 (20"" Wheels) ",2022,BMW,SUV,Electric
+13051,41,211,29,"iX xDrive50 (21"" Wheels) ",2022,BMW,SUV,Electric
+13052,41,211,29,"iX xDrive50 (22"" Wheels) ",2022,BMW,SUV,Electric
+12860,45,211,29,X3 M40i,2022,BMW,SUV,Hybrid Electric
+12861,45,211,29,X4 M40i,2022,BMW,SUV,Hybrid Electric
+12862,45,211,29,X5 sDrive40i,2022,BMW,SUV,Hybrid Electric
+12863,45,211,29,X5 xDrive40i,2022,BMW,SUV,Hybrid Electric
+13072,57,211,29,X5 xDrive45e,2022,BMW,SUV,Plug-in Hybrid Electric
+12864,45,211,29,X6 xDrive40i,2022,BMW,SUV,Hybrid Electric
+12865,45,211,29,X7 xDrive40i,2022,BMW,SUV,Hybrid Electric
+12907,35,231,29,Escalade 2WD,2022,Cadillac,SUV,Biodiesel (B20)
+12908,35,231,29,Escalade 4WD,2022,Cadillac,SUV,Biodiesel (B20)
+12911,35,215,29,Suburban 2WD,2022,Chevrolet,SUV,Biodiesel (B20)
+12912,35,215,29,Suburban 4WD,2022,Chevrolet,SUV,Biodiesel (B20)
+12913,35,215,29,Tahoe 2WD,2022,Chevrolet,SUV,Biodiesel (B20)
+12914,35,215,29,Tahoe 4WD,2022,Chevrolet,SUV,Biodiesel (B20)
+13037,57,219,29,Escape FWD PHEV,2022,Ford,SUV,Plug-in Hybrid Electric
+12976,11,219,29,Explorer AWD FFV,2022,Ford,SUV,Ethanol (E85)
+12980,45,219,29,Explorer HEV AWD,2022,Ford,SUV,Hybrid Electric
+12978,45,219,29,Explorer HEV RWD,2022,Ford,SUV,Hybrid Electric
+13024,45,219,29,Explorer Platinum HEV ,2022,Ford,SUV,Hybrid Electric
+12979,45,219,29,Explorer Platinum HEV ,2022,Ford,SUV,Hybrid Electric
+13059,41,219,29,Mustang Mach-E AWD,2022,Ford,SUV,Electric
+13056,41,219,29,Mustang Mach-E AWD California Route 1,2022,Ford,SUV,Electric
+13060,41,219,29,Mustang Mach-E AWD Extended,2022,Ford,SUV,Electric
+13057,41,219,29,Mustang Mach-E GT AWD,2022,Ford,SUV,Electric
+13058,41,219,29,Mustang Mach-E GT Performance,2022,Ford,SUV,Electric
+13053,41,219,29,Mustang Mach-E RWD,2022,Ford,SUV,Electric
+13055,41,219,29,Mustang Mach-E RWD California Route 1,2022,Ford,SUV,Electric
+13054,41,219,29,Mustang Mach-E RWD Extended,2022,Ford,SUV,Electric
+12922,35,213,29,Yukon 2WD,2022,GMC,SUV,Biodiesel (B20)
+12921,35,213,29,Yukon 4WD,2022,GMC,SUV,Biodiesel (B20)
+12920,35,213,29,Yukon XL 2WD,2022,GMC,SUV,Biodiesel (B20)
+12919,35,213,29,Yukon XL 4WD,2022,GMC,SUV,Biodiesel (B20)
+12886,45,209,29,CR-V AWD,2022,Honda,SUV,Hybrid Electric
+13005,41,351,29,Ioniq 5 AWD (Long Range),2022,Hyundai,SUV,Electric
+13003,41,351,29,Ioniq 5 RWD,2022,Hyundai,SUV,Electric
+13004,41,351,29,Ioniq 5 RWD (Long Range),2022,Hyundai,SUV,Electric
+12879,41,351,29,Kona Electric,2022,Hyundai,SUV,Electric
+13061,9,351,29,Nexo,2022,Hyundai,SUV,Hydrogen Fuel Cell
+13062,9,351,29,Nexo Blue,2022,Hyundai,SUV,Hydrogen Fuel Cell
+12888,57,351,29,Tucson Plug-in Hybrid,2022,Hyundai,SUV,Plug-in Hybrid Electric
+12843,45,385,29,E-PACE MHEV,2022,Jaguar,SUV,Hybrid Electric
+13027,45,385,29,F-PACE P340 MHEV,2022,Jaguar,SUV,Hybrid Electric
+13045,45,385,29,F-PACE P400 MHEV,2022,Jaguar,SUV,Hybrid Electric
+13073,57,275,29,Grand Cherokee 4xe,2022,Jeep,SUV,Plug-in Hybrid Electric
+12866,45,275,29,Wagoneer 4x2,2022,Jeep,SUV,Hybrid Electric
+12867,45,275,29,Wagoneer 4x4,2022,Jeep,SUV,Hybrid Electric
+13028,45,275,29,Wrangler 2dr 4x4,2022,Jeep,SUV,Hybrid Electric
+13029,45,275,29,Wrangler 4dr 4x4,2022,Jeep,SUV,Hybrid Electric
+13038,57,275,29,Wrangler 4dr 4xe,2022,Jeep,SUV,Plug-in Hybrid Electric
+12900,45,361,29,Sorento Hybrid AWD,2022,Kia,SUV,Hybrid Electric
+12821,45,361,29,Sorento Hybrid FWD,2022,Kia,SUV,Hybrid Electric
+12889,57,361,29,Sorento Plug-in Hybrid,2022,Kia,SUV,Plug-in Hybrid Electric
+12823,45,387,29,Defender 110 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12822,45,387,29,Defender 90 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12824,45,387,29,Discovery MHEV,2022,Land Rover,SUV,Hybrid Electric
+13082,45,387,29,New Range Rover P360 LWB MHEV,2022,Land Rover,SUV,Hybrid Electric
+13081,45,387,29,New Range Rover P360 MHEV,2022,Land Rover,SUV,Hybrid Electric
+13084,45,387,29,New Range Rover P400 LWB MHEV,2022,Land Rover,SUV,Hybrid Electric
+13083,45,387,29,New Range Rover P400 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12901,45,387,29,Range Rover Evoque MHEV,2022,Land Rover,SUV,Hybrid Electric
+12868,45,387,29,Range Rover P360 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12869,45,387,29,Range Rover P400 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12825,45,387,29,Range Rover Sport P360 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12826,45,387,29,Range Rover Sport P400 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12836,57,387,29,Range Rover Sport PHEV,2022,Land Rover,SUV,Plug-in Hybrid Electric
+13030,45,387,29,Range Rover Velar P340 MHEV,2022,Land Rover,SUV,Hybrid Electric
+13031,45,387,29,Range Rover Velar P400 MHEV,2022,Land Rover,SUV,Hybrid Electric
+12931,45,243,29,NX 350h AWD,2022,Lexus,SUV,Hybrid Electric
+13039,57,243,29,NX 450+ AWD,2022,Lexus,SUV,Plug-in Hybrid Electric
+12887,45,243,29,RX 450h AWD,2022,Lexus,SUV,Hybrid Electric
+12844,45,243,29,RX 450h L AWD,2022,Lexus,SUV,Hybrid Electric
+12903,57,227,29,Aviator AWD PHEV,2022,Lincoln,SUV,Plug-in Hybrid Electric
+13040,57,227,29,Corsair AWD PHEV,2022,Lincoln,SUV,Plug-in Hybrid Electric
+12932,45,239,29,AMG GLE 53 4MATIC+,2022,Mercedes-Benz,SUV,Hybrid Electric
+12989,45,239,29,AMG GLE 53 4MATIC+ (Coupe),2022,Mercedes-Benz,SUV,Hybrid Electric
+13103,45,239,29,AMG GLE 63 4MATIC+,2022,Mercedes-Benz,SUV,Hybrid Electric
+13102,45,239,29,AMG GLE 63 S 4MATIC+,2022,Mercedes-Benz,SUV,Hybrid Electric
+13101,45,239,29,AMG GLE 63 S 4MATIC+ (coupe),2022,Mercedes-Benz,SUV,Hybrid Electric
+13085,45,239,29,GLE 450 4MATIC,2022,Mercedes-Benz,SUV,Hybrid Electric
+12937,45,239,29,GLE 450 4MATIC,2022,Mercedes-Benz,SUV,Hybrid Electric
+13104,45,239,29,GLE 580 4MATIC,2022,Mercedes-Benz,SUV,Hybrid Electric
+12936,45,239,29,GLS 450 4MATIC,2022,Mercedes-Benz,SUV,Hybrid Electric
+13105,45,239,29,GLS 580 4MATIC,2022,Mercedes-Benz,SUV,Hybrid Electric
+13100,45,239,29,GLS 600 4MATIC Maybach,2022,Mercedes-Benz,SUV,Hybrid Electric
+12904,57,263,29,Outlander PHEV,2022,Mitsubishi,SUV,Plug-in Hybrid Electric
+12891,57,391,29,Cayenne/Coupe/Platinum e-Hybrid,2022,Porsche,SUV,Plug-in Hybrid Electric
+12890,57,391,29,Cayenne Turbo S/Coupe e-Hybrid ,2022,Porsche,SUV,Plug-in Hybrid Electric
+12970,41,470,29,R1S,2022,Rivian ,SUV,Electric
+13019,41,237,29,Model X AWD,2022,Tesla,SUV,Electric
+13020,41,237,29,"Model X Plaid (20"" Wheels)",2022,Tesla,SUV,Electric
+13021,41,237,29,"Model X Plaid (22"" Wheels)",2022,Tesla,SUV,Electric
+13075,41,237,29,Model Y AWD,2022,Tesla,SUV,Electric
+13017,41,237,29,Model Y (Long Range) AWD,2022,Tesla,SUV,Electric
+13016,41,237,29,Model Y Performance AWD,2022,Tesla,SUV,Electric
+13018,41,237,29,Model Y RWD,2022,Tesla,SUV,Electric
+12940,45,221,29,Highlander Hybrid,2022,Toyota,SUV,Hybrid Electric
+12939,45,221,29,Highlander Hybrid AWD,2022,Toyota,SUV,Hybrid Electric
+12938,45,221,29,Highlander Hybrid AWD LTD/PLAT,2022,Toyota,SUV,Hybrid Electric
+13034,45,221,29,RAV4 Hybrid AWD,2022,Toyota,SUV,Hybrid Electric
+12991,45,221,29,Venza AWD,2022,Toyota,SUV,Hybrid Electric
+13096,41,347,29,ID.4 AWD Pro,2022,Volkswagen,SUV,Electric
+13097,41,347,29,ID.4 AWD Pro S,2022,Volkswagen,SUV,Electric
+13098,41,347,29,ID.4 Pro,2022,Volkswagen,SUV,Electric
+13099,41,347,29,ID.4 Pro S,2022,Volkswagen,SUV,Electric
+13022,41,395,29,C40 Recharge Twin,2022,Volvo,SUV,Electric
+12885,41,395,29,XC40 Recharge Twin,2022,Volvo,SUV,Electric
+12847,57,395,29,XC60 T8 AWD Recharge,2022,Volvo,SUV,Plug-in Hybrid Electric
+13079,57,395,29,XC60 T8 AWD Recharge ext. Range,2022,Volvo,SUV,Plug-in Hybrid Electric
+12848,57,395,29,XC90 T8 AWD Recharge,2022,Volvo,SUV,Plug-in Hybrid Electric
+13080,57,395,29,XC90 T8 AWD Recharge ext. Range,2022,Volvo,SUV,Plug-in Hybrid Electric
+12623,41,377,29,e-tron,2021,Audi,SUV,Electric
+12622,41,377,29,e-tron Sportback,2021,Audi,SUV,Electric
+12659,57,377,29,Q5,2021,Audi,SUV,Plug-in Hybrid Electric
+12603,45,377,29,Q5,2021,Audi,SUV,Hybrid Electric
+12703,45,377,29,Q5 Sportback,2021,Audi,SUV,Hybrid Electric
+12558,45,377,29,Q7,2021,Audi,SUV,Hybrid Electric
+12559,45,377,29,Q8,2021,Audi,SUV,Hybrid Electric
+12719,57,355,29,Bentayga,2021,Bentley Motors,SUV,Plug-in Hybrid Electric
+12565,45,211,29,540i,2021,BMW,SUV,Hybrid Electric
+12514,45,211,29,540i xDrive,2021,BMW,SUV,Hybrid Electric
+12512,45,211,29,M340i,2021,BMW,SUV,Hybrid Electric
+12513,45,211,29,M340i xDrive,2021,BMW,SUV,Hybrid Electric
+12724,57,211,29,X3 xDrive30e,2021,BMW,SUV,Plug-in Hybrid Electric
+12515,45,211,29,X5 sDrive40i 2WD,2021,BMW,SUV,Hybrid Electric
+12516,45,211,29,X5 sDrive40i 4WD,2021,BMW,SUV,Hybrid Electric
+12549,57,211,29,X5 xDrive45e,2021,BMW,SUV,Plug-in Hybrid Electric
+12517,45,211,29,X6 sDrive40i 2WD,2021,BMW,SUV,Hybrid Electric
+12518,45,211,29,X6 sDrive40i 4WD,2021,BMW,SUV,Hybrid Electric
+12519,45,211,29,X7 sDrive40i 4WD,2021,BMW,SUV,Hybrid Electric
+12617,35,231,29,Escalade 2WD,2021,Cadillac,SUV,Biodiesel (B20)
+12668,35,231,29,Escalade 4WD,2021,Cadillac,SUV,Biodiesel (B20)
+12618,35,215,29,Suburban 2WD,2021,Chevrolet,SUV,Biodiesel (B20)
+12669,35,215,29,Suburban 4WD,2021,Chevrolet,SUV,Biodiesel (B20)
+12619,35,215,29,Tahoe 2WD,2021,Chevrolet,SUV,Biodiesel (B20)
+12670,35,215,29,Tahoe 4WD,2021,Chevrolet,SUV,Biodiesel (B20)
+12764,57,219,29,Escape FWD PHEV,2021,Ford,SUV,Plug-in Hybrid Electric
+12763,11,219,29,Explorer AWD FFV,2021,Ford,SUV,Ethanol (E85)
+12604,45,219,29,Explorer HEV AWD,2021,Ford,SUV,Hybrid Electric
+12639,45,219,29,Explorer HEV RWD,2021,Ford,SUV,Hybrid Electric
+12620,35,213,29,Yukon 2WD,2021,GMC,SUV,Biodiesel (B20)
+12671,35,213,29,Yukon 4WD,2021,GMC,SUV,Biodiesel (B20)
+12621,35,213,29,Yukon XL 2WD,2021,GMC,SUV,Biodiesel (B20)
+12672,35,213,29,Yukon XL 4WD,2021,GMC,SUV,Biodiesel (B20)
+12643,45,209,29,CR-V AWD,2021,Honda,SUV,Hybrid Electric
+12725,41,351,29,Kona Electric,2021,Hyundai,SUV,Electric
+12631,9,351,29,Nexo,2021,Hyundai,SUV,Hydrogen Fuel Cell
+12632,9,351,29,Nexo Blue,2021,Hyundai,SUV,Hydrogen Fuel Cell
+12726,45,385,29,E-PACE MHEV,2021,Jaguar,SUV,Hybrid Electric
+12708,45,385,29,F-PACE P340 MHEV,2021,Jaguar,SUV,Hybrid Electric
+12709,45,385,29,F-PACE P400 MHEV,2021,Jaguar,SUV,Hybrid Electric
+12757,41,385,29,I-PACE EV400,2021,Jaguar,SUV,Electric
+12525,45,275,29,Wrangler 2dr 4x4,2021,Jeep,SUV,Hybrid Electric
+12526,45,275,29,Wrangler 4dr 4x4,2021,Jeep,SUV,Hybrid Electric
+12747,57,275,29,Wrangler 4dr 4xe,2021,Jeep,SUV,Plug-in Hybrid Electric
+12579,45,361,29,Sorento Hybrid,2021,Kia,SUV,Hybrid Electric
+12581,45,387,29,Defender 110 MHEV,2021,Land Rover,SUV,Hybrid Electric
+12580,45,387,29,Defender 90 MHEV,2021,Land Rover,SUV,Hybrid Electric
+12718,45,387,29,Discovery MHEV,2021,Land Rover,SUV,Hybrid Electric
+12594,35,387,29,Range Rover ,2021,Land Rover,SUV,Biodiesel (B20)
+12605,45,387,29,Range Rover MHEV,2021,Land Rover,SUV,Hybrid Electric
+12614,57,387,29,Range Rover PHEV,2021,Land Rover,SUV,Plug-in Hybrid Electric
+12505,35,387,29,Range Rover Sport,2021,Land Rover,SUV,Biodiesel (B20)
+12527,45,387,29,Range Rover Sport MHEV,2021,Land Rover,SUV,Hybrid Electric
+12615,57,387,29,Range Rover Sport PHEV,2021,Land Rover,SUV,Plug-in Hybrid Electric
+12710,45,387,29,Range Rover Velar P340 MHEV,2021,Land Rover,SUV,Hybrid Electric
+12711,45,387,29,Range Rover Velar P400 MHEV,2021,Land Rover,SUV,Hybrid Electric
+12529,45,243,29,NX 300h AWD,2021,Lexus,SUV,Hybrid Electric
+12583,45,243,29,RX 450h AWD,2021,Lexus,SUV,Hybrid Electric
+12530,45,243,29,RX 450h L AWD,2021,Lexus,SUV,Hybrid Electric
+12616,57,227,29,Aviator AWD PHEV,2021,Lincoln,SUV,Plug-in Hybrid Electric
+12731,57,227,29,Corsair AWD PHEV,2021,Lincoln,SUV,Plug-in Hybrid Electric
+12532,45,239,29,AMG GLE 53 4MATIC+,2021,Mercedes-Benz,SUV,Hybrid Electric
+12533,45,239,29,AMG GLE 53 4MATIC+ Coupe,2021,Mercedes-Benz,SUV,Hybrid Electric
+12534,45,239,29,AMG GLE 63 4MATIC+,2021,Mercedes-Benz,SUV,Hybrid Electric
+12678,45,239,29,AMG GLE 63 S 4MATIC+ Coupe,2021,Mercedes-Benz,SUV,Hybrid Electric
+12535,45,239,29,AMG GLS 63 4MATIC+,2021,Mercedes-Benz,SUV,Hybrid Electric
+12592,45,239,29,GLE 450 4MATIC,2021,Mercedes-Benz,SUV,Hybrid Electric
+12679,45,239,29,GLE 580 4MATIC,2021,Mercedes-Benz,SUV,Hybrid Electric
+12593,45,239,29,GLS 450 4MATIC,2021,Mercedes-Benz,SUV,Hybrid Electric
+12680,45,239,29,GLS 580 4MATIC,2021,Mercedes-Benz,SUV,Hybrid Electric
+12681,45,239,29,GLS 600 4MATIC Maybach,2021,Mercedes-Benz,SUV,Hybrid Electric
+12721,57,263,29,Outlander PHEV,2021,Mitsubishi,SUV,Plug-in Hybrid Electric
+12734,57,391,29,Cayenne e-Hybrid,2021,Porsche,SUV,Plug-in Hybrid Electric
+12735,57,391,29,Cayenne e-Hybrid Coupe,2021,Porsche,SUV,Plug-in Hybrid Electric
+12732,57,391,29,Cayenne Turbo S e-Hybrid,2021,Porsche,SUV,Plug-in Hybrid Electric
+12733,57,391,29,Cayenne Turbo S e-Hybrid Coupe,2021,Porsche,SUV,Plug-in Hybrid Electric
+12713,57,383,29,Crosstrek Hybrid AWD,2021,Subaru,SUV,Plug-in Hybrid Electric
+12624,41,237,29,Model X Long Range Plus,2021,Tesla,SUV,Electric
+12625,41,237,29,"Model X Performance (20"" Wheels)",2021,Tesla,SUV,Electric
+12629,41,237,29,Model Y Long Range AWD,2021,Tesla,SUV,Electric
+12628,41,237,29,Model Y Performance AWD,2021,Tesla,SUV,Electric
+12760,41,237,29,Model Y Standard Range RWD,2021,Tesla,SUV,Electric
+12584,45,221,29,Highlander Hybrid,2021,Toyota,SUV,Hybrid Electric
+12585,45,221,29,Highlander Hybrid AWD,2021,Toyota,SUV,Hybrid Electric
+12586,45,221,29,Highlander Hybrid AWD LTD/PLAT,2021,Toyota,SUV,Hybrid Electric
+12542,45,221,29,RAV4 Hybrid AWD,2021,Toyota,SUV,Hybrid Electric
+12543,45,221,29,Venza AWD,2021,Toyota,SUV,Hybrid Electric
+12674,41,347,29,ID.4 1st,2021,Volkswagen,SUV,Electric
+12996,41,347,29,ID.4 AWD Pro,2021,Volkswagen,SUV,Electric
+12838,41,347,29,ID.4 Pro,2021,Volkswagen,SUV,Electric
+12675,41,347,29,ID.4 Pro S,2021,Volkswagen,SUV,Electric
+12995,41,347,29,ID.4 Pro S AWD ,2021,Volkswagen,SUV,Electric
+12554,57,395,29,V60 AWD,2021,Volvo,SUV,Plug-in Hybrid Electric
+12596,41,395,29,XC40 Recharge,2021,Volvo,SUV,Electric
+12589,57,395,29,XC60 AWD,2021,Volvo,SUV,Plug-in Hybrid Electric
+12555,57,395,29,XC90 AWD,2021,Volvo,SUV,Plug-in Hybrid Electric
+12280,45,365,29,MDX AWD,2020,Acura,SUV,Hybrid Electric
+12432,41,377,29,e-tron Sportback,2020,Audi,SUV,Electric
+12436,45,377,29,RS Q8,2020,Audi,SUV,Hybrid Electric
+12475,57,355,29,Bentayga,2020,Bentley Motors,SUV,Plug-in Hybrid Electric
+12442,57,211,29,X3 xDrive30e,2020,BMW,SUV,Plug-in Hybrid Electric
+12269,11,215,29,Suburban C1500 2WD,2020,Chevrolet,SUV,Ethanol (E85)
+12270,11,215,29,Suburban K1500 4WD,2020,Chevrolet,SUV,Ethanol (E85)
+12271,11,215,29,Tahoe C1500 2WD,2020,Chevrolet,SUV,Ethanol (E85)
+12272,11,215,29,Tahoe K1500 4WD,2020,Chevrolet,SUV,Ethanol (E85)
+12455,57,219,29,Escape FWD PHEV,2020,Ford,SUV,Plug-in Hybrid Electric
+12275,11,219,29,Explorer AWD FFV,2020,Ford,SUV,Ethanol (E85)
+12309,45,219,29,Explorer HEV AWD,2020,Ford,SUV,Hybrid Electric
+12308,45,219,29,Explorer HEV RWD,2020,Ford,SUV,Hybrid Electric
+12278,11,213,29,Yukon K1500 4WD,2020,GMC,SUV,Ethanol (E85)
+12279,11,213,29,Yukon K1500 XL 4WD,2020,GMC,SUV,Ethanol (E85)
+12276,11,213,29,Yukon XL C1500 2WD,2020,GMC,SUV,Ethanol (E85)
+12277,11,213,29,Yukon XL C1500 2WD,2020,GMC,SUV,Ethanol (E85)
+12437,45,209,29,CR-V AWD,2020,Honda,SUV,Hybrid Electric
+12352,41,351,29,Kona Electric,2020,Hyundai,SUV,Electric
+12375,9,351,29,Nexo,2020,Hyundai,SUV,Hydrogen Fuel Cell
+12376,9,351,29,Nexo Blue,2020,Hyundai,SUV,Hydrogen Fuel Cell
+12267,41,385,29,I-PACE,2020,Jaguar,SUV,Electric
+12424,45,275,29,Wrangler 4x4,2020,Jeep,SUV,Hybrid Electric
+12283,45,275,29,Wrangler Unlimited 4x4,2020,Jeep,SUV,Hybrid Electric
+12312,45,275,29,Wrangler Unlimited 4x4,2020,Jeep,SUV,Hybrid Electric
+12452,45,387,29,Defender 110 MHEV,2020,Land Rover,SUV,Hybrid Electric
+12453,45,387,29,Defender 90 MHEV,2020,Land Rover,SUV,Hybrid Electric
+12261,35,387,29,Range Rover,2020,Land Rover,SUV,Biodiesel (B20)
+12300,35,387,29,Range Rover Discovery,2020,Land Rover,SUV,Biodiesel (B20)
+12481,45,387,29,Range Rover MHEV,2020,Land Rover,SUV,Hybrid Electric
+12421,57,387,29,Range Rover PHEV,2020,Land Rover,SUV,Plug-in Hybrid Electric
+12260,35,387,29,Range Rover Sport,2020,Land Rover,SUV,Biodiesel (B20)
+12685,45,387,29,Range Rover Sport MHEV,2020,Land Rover,SUV,Hybrid Electric
+12422,57,387,29,Range Rover Sport PHEV,2020,Land Rover,SUV,Plug-in Hybrid Electric
+12286,45,243,29,NX 300h AWD,2020,Lexus,SUV,Hybrid Electric
+12315,45,243,29,RX 450h AWD,2020,Lexus,SUV,Hybrid Electric
+12316,45,243,29,RX 450hL AWD,2020,Lexus,SUV,Hybrid Electric
+12423,57,227,29,Aviator AWD PHEV,2020,Lincoln,SUV,Plug-in Hybrid Electric
+12478,57,239,29,GLC 350e 4MATIC,2020,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+12287,45,239,29,GLE 450 4MATIC,2020,Mercedes-Benz,SUV,Hybrid Electric
+12406,45,239,29,GLE 580 4MATIC,2020,Mercedes-Benz,SUV,Hybrid Electric
+12325,45,239,29,GLS 450 4MATIC,2020,Mercedes-Benz,SUV,Hybrid Electric
+12407,45,239,29,GLS 580 4MATIC,2020,Mercedes-Benz,SUV,Hybrid Electric
+12443,57,239,29,S 560e,2020,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+12339,57,263,29,Outlander PHEV,2020,Mitsubishi,SUV,Plug-in Hybrid Electric
+12449,57,391,29,Cayenne e-Hybrid,2020,Porsche,SUV,Plug-in Hybrid Electric
+12450,57,391,29,Cayenne e-Hybrid Coupe,2020,Porsche,SUV,Plug-in Hybrid Electric
+12482,57,391,29,Cayenne Turbo S e-Hybrid,2020,Porsche,SUV,Plug-in Hybrid Electric
+12483,57,391,29,Cayenne Turbo S e-Hybrid Coupe,2020,Porsche,SUV,Plug-in Hybrid Electric
+12399,57,383,29,Crosstrek Hybrid AWD,2020,Subaru,SUV,Plug-in Hybrid Electric
+12364,41,237,29,Model X Long Range,2020,Tesla,SUV,Electric
+12365,41,237,29,"Model X Performance (20"" Wheels)",2020,Tesla,SUV,Electric
+12363,41,237,29,Model X Standard Range,2020,Tesla,SUV,Electric
+12498,41,237,29,Model Y Long Range AWD,2020,Tesla,SUV,Electric
+12454,41,237,29,Model Y Performance AWD,2020,Tesla,SUV,Electric
+12497,41,237,29,"Model Y Performance AWD (21"" wheels)",2020,Tesla,SUV,Electric
+12428,45,221,29,Highlander Hybrid,2020,Toyota,SUV,Hybrid Electric
+12427,45,221,29,Highlander Hybrid AWD,2020,Toyota,SUV,Hybrid Electric
+12429,45,221,29,Highlander Hybrid AWD LTD/PLAT,2020,Toyota,SUV,Hybrid Electric
+12361,45,221,29,RAV4 Hybrid AWD,2020,Toyota,SUV,Hybrid Electric
+12346,57,395,29,V60 AWD,2020,Volvo,SUV,Plug-in Hybrid Electric
+12347,57,395,29,XC60 AWD,2020,Volvo,SUV,Plug-in Hybrid Electric
+12348,57,395,29,XC90 AWD,2020,Volvo,SUV,Plug-in Hybrid Electric
+12127,45,365,29,MDX AWD,2019,Acura,SUV,Hybrid Electric
+12247,41,377,29,e-tron,2019,Audi,SUV,Electric
+12037,35,215,29,Equinox AWD,2019,Chevrolet,SUV,Biodiesel (B20)
+12059,35,215,29,Equinox FWD,2019,Chevrolet,SUV,Biodiesel (B20)
+12040,11,215,29,Suburban C1500 2WD,2019,Chevrolet,SUV,Ethanol (E85)
+12041,11,215,29,Suburban K1500 4WD,2019,Chevrolet,SUV,Ethanol (E85)
+12042,11,215,29,Tahoe C1500 2WD,2019,Chevrolet,SUV,Ethanol (E85)
+12043,11,215,29,Tahoe K1500 4WD,2019,Chevrolet,SUV,Ethanol (E85)
+12187,11,225,29,Journey,2019,Dodge,SUV,Ethanol (E85)
+12118,11,219,29,Escape FWD FFV,2019,Ford,SUV,Ethanol (E85)
+11881,11,219,29,Explorer 2WD FFV,2019,Ford,SUV,Ethanol (E85)
+12079,11,219,29,Explorer AWD FFV,2019,Ford,SUV,Ethanol (E85)
+12038,35,213,29,Terrain AWD,2019,GMC,SUV,Biodiesel (B20)
+12060,35,213,29,Terrain FWD,2019,GMC,SUV,Biodiesel (B20)
+12044,11,213,29,Yukon C1500 2WD,2019,GMC,SUV,Ethanol (E85)
+12046,11,213,29,Yukon K1500 4WD,2019,GMC,SUV,Ethanol (E85)
+12047,11,213,29,Yukon K1500 XL 4WD,2019,GMC,SUV,Ethanol (E85)
+12045,11,213,29,Yukon XL C1500 2WD,2019,GMC,SUV,Ethanol (E85)
+12210,41,351,29,Kona Electric,2019,Hyundai,SUV,Electric
+12106,9,351,29,Nexo,2019,Hyundai,SUV,Hydrogen Fuel Cell
+12107,9,351,29,Nexo Blue,2019,Hyundai,SUV,Hydrogen Fuel Cell
+12203,35,385,29,F-Pace,2019,Jaguar,SUV,Biodiesel (B20)
+12103,41,385,29,I-PACE,2019,Jaguar,SUV,Electric
+12141,45,275,29,Wrangler 4x4,2019,Jeep,SUV,Hybrid Electric
+12142,45,275,29,Wrangler Unlimited 4x4,2019,Jeep,SUV,Hybrid Electric
+12099,35,387,29,Range Rover Discovery,2019,Land Rover,SUV,Biodiesel (B20)
+12098,35,387,29,Range Rover Sport,2019,Land Rover,SUV,Biodiesel (B20)
+12403,45,387,29,Range Rover Sport MHEV,2019,Land Rover,SUV,Hybrid Electric
+12097,35,387,29,Range Rover SVA,2019,Land Rover,SUV,Biodiesel (B20)
+12208,35,387,29,Range Rover Velar,2019,Land Rover,SUV,Biodiesel (B20)
+12056,45,243,29,NX 300h AWD,2019,Lexus,SUV,Hybrid Electric
+12084,45,243,29,RX 450h AWD,2019,Lexus,SUV,Hybrid Electric
+12147,45,243,29,RX 450h L AWD,2019,Lexus,SUV,Hybrid Electric
+12123,11,239,29,GLA 250 4matic,2019,Mercedes-Benz,SUV,Ethanol (E85)
+12167,57,239,29,GLC 350e 4MATIC,2019,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+12401,57,239,29,S 560e,2019,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+12168,57,263,29,Outlander PHEV,2019,Mitsubishi,SUV,Plug-in Hybrid Electric
+12085,45,217,29,Rogue AWD Hybrid,2019,Nissan,SUV,Hybrid Electric
+12086,45,217,29,Rogue FWD Hybrid,2019,Nissan,SUV,Hybrid Electric
+12402,57,391,29,Cayenne e-Hybrid,2019,Porsche,SUV,Plug-in Hybrid Electric
+12212,57,383,29,Crosstrek Hybrid AWD,2019,Subaru,SUV,Plug-in Hybrid Electric
+12174,41,237,29,Model X 100D,2019,Tesla,SUV,Electric
+12173,41,237,29,Model X 75D,2019,Tesla,SUV,Electric
+12256,41,237,29,Model X Long Range,2019,Tesla,SUV,Electric
+12175,41,237,29,Model X P100D,2019,Tesla,SUV,Electric
+12257,41,237,29,"Model X Performance (22"" Wheels)",2019,Tesla,SUV,Electric
+12233,45,221,29,RAV4 Hybrid AWD,2019,Toyota,SUV,Hybrid Electric
+12072,57,395,29,XC60 AWD,2019,Volvo,SUV,Plug-in Hybrid Electric
+12073,57,395,29,XC90 AWD,2019,Volvo,SUV,Plug-in Hybrid Electric
+11978,45,365,29,MDX AWD,2018,Acura,SUV,Hybrid Electric
+11941,57,211,29,X5 xDrive40e,2018,BMW,SUV,Plug-in Hybrid Electric
+11834,35,215,29,Equinox AWD,2018,Chevrolet,SUV,Biodiesel (B20)
+11833,35,215,29,Equinox FWD,2018,Chevrolet,SUV,Biodiesel (B20)
+11860,11,215,29,Suburban C1500 2WD,2018,Chevrolet,SUV,Ethanol (E85)
+11861,11,215,29,Suburban K1500 4WD,2018,Chevrolet,SUV,Ethanol (E85)
+11862,11,215,29,Tahoe C1500 2WD,2018,Chevrolet,SUV,Ethanol (E85)
+11863,11,215,29,Tahoe K1500 4WD,2018,Chevrolet,SUV,Ethanol (E85)
+11869,11,225,29,Journey,2018,Dodge,SUV,Ethanol (E85)
+11876,11,219,29,Escape FWD FFV,2018,Ford,SUV,Ethanol (E85)
+11882,11,219,29,Explorer AWD FFV,2018,Ford,SUV,Ethanol (E85)
+11838,35,213,29,Terrain AWD,2018,GMC,SUV,Biodiesel (B20)
+11837,35,213,29,Terrain FWD,2018,GMC,SUV,Biodiesel (B20)
+11887,11,213,29,Yukon C1500 2WD,2018,GMC,SUV,Ethanol (E85)
+11888,11,213,29,Yukon C1500 XL 2WD,2018,GMC,SUV,Ethanol (E85)
+11889,11,213,29,Yukon K1500 4WD,2018,GMC,SUV,Ethanol (E85)
+11890,11,213,29,Yukon K1500 XL 4WD,2018,GMC,SUV,Ethanol (E85)
+11821,35,385,29,F-Pace,2018,Jaguar,SUV,Biodiesel (B20)
+11892,11,275,29,Cherokee 4WD,2018,Jeep,SUV,Ethanol (E85)
+11891,11,275,29,Cherokee FWD,2018,Jeep,SUV,Ethanol (E85)
+11893,11,275,29,Renegade 4x2,2018,Jeep,SUV,Ethanol (E85)
+11820,35,387,29,Range Rover Velar,2018,Land Rover,SUV,Biodiesel (B20)
+11968,45,243,29,RX 450h AWD,2018,Lexus,SUV,Hybrid Electric
+11995,45,243,29,RX 450h  L AWD,2018,Lexus,SUV,Hybrid Electric
+11894,11,239,29,CLA 250 4matic,2018,Mercedes-Benz,SUV,Ethanol (E85)
+11895,11,239,29,GLA 250 4matic,2018,Mercedes-Benz,SUV,Ethanol (E85)
+11984,57,239,29,GLC 350e 4MATIC,2018,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+11896,11,239,29,GLE 350 4matic,2018,Mercedes-Benz,SUV,Ethanol (E85)
+11950,57,239,29,GLE550e,2018,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+11972,57,263,29,Outlander PHEV,2018,Mitsubishi,SUV,Plug-in Hybrid Electric
+11927,45,217,29,Rogue AWD Hybrid,2018,Nissan,SUV,Hybrid Electric
+11928,45,217,29,Rogue FWD Hybrid,2018,Nissan,SUV,Hybrid Electric
+11997,57,391,29,Cayenne S e-Hybrid,2018,Porsche,SUV,Plug-in Hybrid Electric
+11959,41,237,29,Model X AWD - 100D,2018,Tesla,SUV,Electric
+11958,41,237,29,Model X AWD - 75D,2018,Tesla,SUV,Electric
+11961,41,237,29,Model X AWD - P100D,2018,Tesla,SUV,Electric
+11982,45,221,29,Highlander Hybrid AWD,2018,Toyota,SUV,Hybrid Electric
+11983,45,221,29,Highlander Hybrid AWD LE Plus,2018,Toyota,SUV,Hybrid Electric
+11935,45,221,29,RAV4 Hybrid AWD,2018,Toyota,SUV,Hybrid Electric
+11953,57,395,29,XC60 AWD,2018,Volvo,SUV,Plug-in Hybrid Electric
+11954,57,395,29,XC90 AWD,2018,Volvo,SUV,Plug-in Hybrid Electric
+11783,45,365,29,MDX Hybrid,2017,Acura,SUV,Hybrid Electric
+11817,11,377,29,Q5 AWD,2017,Audi,SUV,Ethanol (E85)
+11720,57,211,29,X5 xDrive40e,2017,BMW,SUV,Plug-in Hybrid Electric
+11655,11,215,29,Equinox AWD,2017,Chevrolet,SUV,Ethanol (E85)
+11654,11,215,29,Equinox FWD,2017,Chevrolet,SUV,Ethanol (E85)
+11656,11,215,29,Suburban C1500 2WD,2017,Chevrolet,SUV,Ethanol (E85)
+11658,11,215,29,Suburban K1500 4WD,2017,Chevrolet,SUV,Ethanol (E85)
+11657,11,215,29,Tahoe C1500 2WD,2017,Chevrolet,SUV,Ethanol (E85)
+11659,11,215,29,Tahoe K1500 4WD,2017,Chevrolet,SUV,Ethanol (E85)
+11664,11,225,29,Journey,2017,Dodge,SUV,Ethanol (E85)
+11670,11,219,29,Escape FWD FFV,2017,Ford,SUV,Ethanol (E85)
+11671,11,219,29,Explorer 2WD FFV,2017,Ford,SUV,Ethanol (E85)
+11672,11,219,29,Explorer AWD FFV,2017,Ford,SUV,Ethanol (E85)
+11677,11,213,29,Terrain FWD,2017,GMC,SUV,Ethanol (E85)
+11678,11,213,29,Yukon C1500 2WD,2017,GMC,SUV,Ethanol (E85)
+11679,11,213,29,Yukon C1500 XL 2WD,2017,GMC,SUV,Ethanol (E85)
+11680,11,213,29,Yukon K1500 4WD,2017,GMC,SUV,Ethanol (E85)
+11681,11,213,29,Yukon K1500 XL 4WD,2017,GMC,SUV,Ethanol (E85)
+11646,9,351,29,Tucson,2017,Hyundai,SUV,Hydrogen Fuel Cell
+11792,45,359,29,Q60 Hybrid AWD,2017,Infiniti,SUV,Hybrid Electric
+11793,45,359,29,Q60 Hybrid FWD,2017,Infiniti,SUV,Hybrid Electric
+11737,35,385,29,F-Pace,2017,Jaguar,SUV,Biodiesel (B20)
+11683,11,275,29,Cherokee 4WD,2017,Jeep,SUV,Ethanol (E85)
+11682,11,275,29,Cherokee FWD,2017,Jeep,SUV,Ethanol (E85)
+11741,35,275,29,Grand Cherokee 2WD/4WD,2017,Jeep,SUV,Biodiesel (B20)
+11684,11,275,29,Renegade 2WD,2017,Jeep,SUV,Ethanol (E85)
+11736,35,387,29,Range Rover Sport,2017,Land Rover,SUV,Biodiesel (B20)
+11795,45,243,29,NX 300h,2017,Lexus,SUV,Hybrid Electric
+11706,45,243,29,RX 450h,2017,Lexus,SUV,Hybrid Electric
+11685,11,239,29,GLA250 4matic,2017,Mercedes-Benz,SUV,Ethanol (E85)
+11686,11,239,29,GLE350 4matic,2017,Mercedes-Benz,SUV,Ethanol (E85)
+11798,57,239,29,GLE550e,2017,Mercedes-Benz,SUV,Plug-in Hybrid Electric
+11802,45,217,29,Rogue AWD Hybrid,2017,Nissan,SUV,Hybrid Electric
+11803,45,217,29,Rogue FWD Hybrid,2017,Nissan,SUV,Hybrid Electric
+11804,45,217,29,Rogue SV FWD Hybrid,2017,Nissan,SUV,Hybrid Electric
+11801,57,391,29,Cayenne S e-Hybrid,2017,Porsche,SUV,Plug-in Hybrid Electric
+11724,57,391,29,Cayenne S e-Hybrid,2017,Porsche,SUV,Plug-in Hybrid Electric
+11960,41,237,29,Model X AWD - 100D,2017,Tesla,SUV,Electric
+11812,41,237,29,Model X AWD - 60D,2017,Tesla,SUV,Electric
+11773,41,237,29,Model X AWD - 75D,2017,Tesla,SUV,Electric
+11774,41,237,29,Model X AWD - 90D,2017,Tesla,SUV,Electric
+11775,41,237,29,Model X AWD - P100D,2017,Tesla,SUV,Electric
+11776,41,237,29,Model X AWD - P90D,2017,Tesla,SUV,Electric
+11807,45,221,29,Highlander Hybrid 4WD,2017,Toyota,SUV,Hybrid Electric
+11808,45,221,29,Highlander Hybrid 4WD LE Plus,2017,Toyota,SUV,Hybrid Electric
+11714,45,221,29,RAV4 Hybrid AWD,2017,Toyota,SUV,Hybrid Electric
+11811,57,395,29,XC90 T8 Plug-in Hybrid,2017,Volvo,SUV,Plug-in Hybrid Electric
+11725,57,395,29,XC90 T8 Plug-in Hybrid,2017,Volvo,SUV,Plug-in Hybrid Electric
+11505,11,377,29,Q5 AWD,2016,Audi,SUV,Ethanol (E85)
+11568,45,377,29,Q5 Hybrid AWD,2016,Audi,SUV,Hybrid Electric
+11615,57,211,29,X5 xDrive40e Plug-in Hybrid,2016,BMW,SUV,Plug-in Hybrid Electric
+11511,11,215,29,Equinox FWD/AWD,2016,Chevrolet,SUV,Ethanol (E85)
+11510,11,215,29,Equinox FWD/AWD,2016,Chevrolet,SUV,Ethanol (E85)
+11521,11,215,29,Suburban 2WD/4WD,2016,Chevrolet,SUV,Ethanol (E85)
+11523,11,215,29,Tahoe 2WD/4WD,2016,Chevrolet,SUV,Ethanol (E85)
+11522,11,215,29,Tahoe Police 2WD/4WD,2016,Chevrolet,SUV,Ethanol (E85)
+11531,11,225,29,Durango Police Special Service Vehicle,2016,Dodge,SUV,Ethanol (E85)
+11533,11,225,29,Journey FWD,2016,Dodge,SUV,Ethanol (E85)
+11537,11,219,29,Explorer 2WD/AWD,2016,Ford,SUV,Ethanol (E85)
+11536,11,219,29,Police Interceptor Utility,2016,Ford,SUV,Ethanol (E85)
+11550,11,213,29,Terrain Denali FWD/AWD,2016,GMC,SUV,Ethanol (E85)
+11551,11,213,29,Terrain FWD/AWD,2016,GMC,SUV,Ethanol (E85)
+11552,11,213,29,Yukon 1500 2WD/4WD,2016,GMC,SUV,Ethanol (E85)
+11553,11,213,29,Yukon XL 1500 2WD/4WD,2016,GMC,SUV,Ethanol (E85)
+11634,9,351,29,Tucson,2016,Hyundai,SUV,Hydrogen Fuel Cell
+11578,45,359,29,QX60 Hybrid,2016,Infiniti,SUV,Hybrid Electric
+11554,11,275,29,Cherokee 2WD/FWD,2016,Jeep,SUV,Ethanol (E85)
+11484,35,275,29,Grand Cherokee 2WD/FWD,2016,Jeep,SUV,Biodiesel (B20)
+11555,11,275,29,Renagade 2WD/FWD,2016,Jeep,SUV,Ethanol (E85)
+11585,45,243,29,NX 300h FWD/AWD,2016,Lexus,SUV,Hybrid Electric
+11586,45,243,29,RX 450h FWD/AWD,2016,Lexus,SUV,Hybrid Electric
+11559,11,239,29,GLA 250 4Matic,2016,Mercedes-Benz,SUV,Ethanol (E85)
+11560,11,239,29,GLE350 4Matic,2016,Mercedes-Benz,SUV,Ethanol (E85)
+11561,11,217,29,Armada 2WD/4WD,2016,Nissan,SUV,Ethanol (E85)
+11588,45,217,29,Pathfinder Hybrid 2WD/AWD,2016,Nissan,SUV,Hybrid Electric
+11624,57,391,29,Cayenne S E-Hybrid,2016,Porsche,SUV,Plug-in Hybrid Electric
+11589,45,383,29,XV Crosstrek Hybrid,2016,Subaru,SUV,Hybrid Electric
+11609,41,237,29,Model X AWD 90D,2016,Tesla,SUV,Electric
+11610,41,237,29,Model X AWD P90D,2016,Tesla,SUV,Electric
+11592,45,221,29,Highlander,2016,Toyota,SUV,Hybrid Electric
+11596,45,221,29,RAV 4,2016,Toyota,SUV,Hybrid Electric
+11565,11,221,29,Sequoia 4WD,2016,Toyota,SUV,Ethanol (E85)
+11396,11,377,29,Q5 AWD,2015,Audi,SUV,Ethanol (E85)
+11358,45,377,29,Q5 Hybrid AWD,2015,Audi,SUV,Hybrid Electric
+11421,11,215,29,Captiva,2015,Chevrolet,SUV,Ethanol (E85)
+11423,11,215,29,Equinox,2015,Chevrolet,SUV,Ethanol (E85)
+11422,11,215,29,Equinox,2015,Chevrolet,SUV,Ethanol (E85)
+11414,11,215,29,Suburban 2WD/4WD,2015,Chevrolet,SUV,Ethanol (E85)
+11417,11,215,29,Tahoe 2WD/4WD,2015,Chevrolet,SUV,Ethanol (E85)
+11418,11,215,29,Tahoe Police 2WD/4WD,2015,Chevrolet,SUV,Ethanol (E85)
+11437,11,225,29,Durango Police Special Service Vehicle,2015,Dodge,SUV,Ethanol (E85)
+11434,11,225,29,Durango RWD/AWD,2015,Dodge,SUV,Ethanol (E85)
+11435,11,225,29,Journey FWD,2015,Dodge,SUV,Ethanol (E85)
+11444,11,219,29,Expedition 2WD/4WD,2015,Ford,SUV,Ethanol (E85)
+11443,11,219,29,Explorer FWD/AWD,2015,Ford,SUV,Ethanol (E85)
+11440,11,219,29,Police Interceptor Utility,2015,Ford,SUV,Ethanol (E85)
+11427,11,213,29,Terrain,2015,GMC,SUV,Ethanol (E85)
+11428,11,213,29,Terrain,2015,GMC,SUV,Ethanol (E85)
+11415,11,213,29,Yukon 2WD/4WD,2015,GMC,SUV,Ethanol (E85)
+11416,11,213,29,Yukon XL 2WD/4WD,2015,GMC,SUV,Ethanol (E85)
+11117,9,351,29,Tucson Fuel Cell Vehicle,2015,Hyundai,SUV,Hydrogen Fuel Cell
+11383,45,359,29,QX60 Hybrid,2015,Infiniti,SUV,Hybrid Electric
+11459,11,275,29,Cherokee FWD/4WD,2015,Jeep,SUV,Ethanol (E85)
+11296,35,275,29,Grand Cherokee 2WD/4WD,2015,Jeep,SUV,Biodiesel (B20)
+11460,11,275,29,Grand Cherokee 2WD/4WD,2015,Jeep,SUV,Ethanol (E85)
+11456,11,387,29,Range Rover,2015,Land Rover,SUV,Ethanol (E85)
+11457,11,387,29,Range Rover L,2015,Land Rover,SUV,Ethanol (E85)
+11458,11,387,29,Range Rover Sport,2015,Land Rover,SUV,Ethanol (E85)
+11375,45,243,29,RX 450h,2015,Lexus,SUV,Hybrid Electric
+11461,11,239,29,GLA 250 4Matic,2015,Mercedes-Benz,SUV,Ethanol (E85)
+11462,11,239,29,ML 350 4Matic,2015,Mercedes-Benz,SUV,Ethanol (E85)
+11463,11,217,29,Armada 2WD/4WD,2015,Nissan,SUV,Ethanol (E85)
+11378,45,217,29,Pathfinder Hybrid 2WD/AWD,2015,Nissan,SUV,Hybrid Electric
+11342,57,391,29,Cayenne S E-Hybrid,2015,Porsche,SUV,Plug-in Hybrid Electric
+11297,35,349,29,1500 2WD/4WD,2015,Ram,SUV,Biodiesel (B20)
+11379,45,383,29,XV Crosstrek,2015,Subaru,SUV,Hybrid Electric
+11386,45,221,29,Highlander,2015,Toyota,SUV,Hybrid Electric
+11468,11,221,29,Sequoia 4WD,2015,Toyota,SUV,Ethanol (E85)
+11391,45,347,29,Touareg Hybrid,2015,Volkswagen,SUV,Hybrid Electric
+11120,11,377,29,Q5 AWD,2014,Audi,SUV,Ethanol (E85)
+11212,45,377,29,"Q5 Hybrid, AWD",2014,Audi,SUV,Hybrid Electric
+11131,11,231,29,"Escalade, 2WD/4WD",2014,Cadillac,SUV,Ethanol (E85)
+11130,11,231,29,"Escalade ESV, 2WD/4WD",2014,Cadillac,SUV,Ethanol (E85)
+11145,11,215,29,"Captiva, FWD/AWD",2014,Chevrolet,SUV,Ethanol (E85)
+11144,11,215,29,"Captiva, FWD/AWD",2014,Chevrolet,SUV,Ethanol (E85)
+11148,11,215,29,"Equinox, FWD/AWD",2014,Chevrolet,SUV,Ethanol (E85)
+11147,11,215,29,"Equinox, FWD/AWD",2014,Chevrolet,SUV,Ethanol (E85)
+11139,11,215,29,"Suburban, 2WD/4WD",2014,Chevrolet,SUV,Ethanol (E85)
+11137,11,215,29,"Tahoe, 2WD/4WD",2014,Chevrolet,SUV,Ethanol (E85)
+11136,11,215,29,"Tahoe Police, 2WD/4WD",2014,Chevrolet,SUV,Ethanol (E85)
+11155,11,225,29,"Durango, 2WD/AWD",2014,Dodge,SUV,Ethanol (E85)
+11153,11,225,29,Durango Police Special Service Vehicle,2014,Dodge,SUV,Ethanol (E85)
+11154,11,225,29,"Journey, FWD",2014,Dodge,SUV,Ethanol (E85)
+11173,11,219,29,"Expedition, 2WD/AWD",2014,Ford,SUV,Ethanol (E85)
+11174,11,219,29,"Explorer, 2WD/AWD",2014,Ford,SUV,Ethanol (E85)
+11160,11,219,29,Police Interceptor Utility,2014,Ford,SUV,Ethanol (E85)
+11182,11,213,29,"Terrain, AWD",2014,GMC,SUV,Ethanol (E85)
+11175,11,213,29,"Terrain, FWD/AWD",2014,GMC,SUV,Ethanol (E85)
+11177,11,213,29,"Yukon, 2WD",2014,GMC,SUV,Ethanol (E85)
+11178,11,213,29,"Yukon, 2WD/4WD",2014,GMC,SUV,Ethanol (E85)
+11176,11,213,29,"Yukon Denali, 4WD",2014,GMC,SUV,Ethanol (E85)
+11179,11,213,29,"Yukon XL, 2WD/4WD",2014,GMC,SUV,Ethanol (E85)
+11180,11,213,29,"Yukon XL, 2WD/4WD",2014,GMC,SUV,Ethanol (E85)
+11223,45,359,29,QX60 Hybrid,2014,Infiniti,SUV,Hybrid Electric
+11193,11,275,29,"Grand Cherokee, 2WD/FWD",2014,Jeep,SUV,Ethanol (E85)
+11196,11,387,29,Range Rover,2014,Land Rover,SUV,Ethanol (E85)
+11197,11,387,29,Range Rover,2014,Land Rover,SUV,Ethanol (E85)
+11195,11,387,29,Range Rover Sport,2014,Land Rover,SUV,Ethanol (E85)
+11194,11,387,29,Range Rover Sport,2014,Land Rover,SUV,Ethanol (E85)
+11229,45,243,29,"RX 450h, FWD/AWD",2014,Lexus,SUV,Hybrid Electric
+11198,11,227,29,"Navigator, 2WD/AWD",2014,Lincoln,SUV,Ethanol (E85)
+11199,11,239,29,ML350 4Matic,2014,Mercedes-Benz,SUV,Ethanol (E85)
+11205,11,217,29,"Armada, 2WD/4WD",2014,Nissan,SUV,Ethanol (E85)
+11235,45,217,29,"Pathfinder Hybrid, 2WD/AWD",2014,Nissan,SUV,Hybrid Electric
+11236,45,391,29,Cayenne S Hybrid,2014,Porsche,SUV,Hybrid Electric
+11237,45,383,29,XV Crosstrek Hybrid,2014,Subaru,SUV,Hybrid Electric
+11243,45,221,29,Highlander,2014,Toyota,SUV,Hybrid Electric
+11272,41,221,29,RAV 4 EV,2014,Toyota,SUV,Electric
+11209,11,221,29,"Sequoia, 4WD",2014,Toyota,SUV,Ethanol (E85)
+11244,45,347,29,Touareg Hybrid,2014,Volkswagen,SUV,Hybrid Electric
+10468,11,377,29,Q5,2013,Audi,SUV,Ethanol (E85)
+10470,45,377,29,Q5 Hybrid,2013,Audi,SUV,Hybrid Electric
+10596,45,231,29,Escalade 2WD / AWD,2013,Cadillac,SUV,Hybrid Electric
+10575,11,231,29,Escalade 2WD/ AWD,2013,Cadillac,SUV,Ethanol (E85)
+10576,11,231,29,Escalade ESV 2WD/ AWD,2013,Cadillac,SUV,Ethanol (E85)
+10566,11,215,29,Captiva FWD / AWD,2013,Chevrolet,SUV,Ethanol (E85)
+10565,11,215,29,Captiva FWD / AWD,2013,Chevrolet,SUV,Ethanol (E85)
+10569,11,215,29,Equinox FWD / AWD,2013,Chevrolet,SUV,Ethanol (E85)
+10567,11,215,29,Equinox FWD / AWD,2013,Chevrolet,SUV,Ethanol (E85)
+10572,11,215,29,Suburban 1500 2WD/ AWD,2013,Chevrolet,SUV,Ethanol (E85)
+10595,45,215,29,Tahoe 2WD / AWD,2013,Chevrolet,SUV,Hybrid Electric
+10620,11,215,29,Tahoe Police & Special Service Vehicle,2013,Chevrolet,SUV,Ethanol (E85)
+10481,11,225,29,Durango 2WD / AWD,2013,Dodge,SUV,Ethanol (E85)
+10484,11,225,29,Durango Police Special Service Vehicle,2013,Dodge,SUV,Ethanol (E85)
+10482,11,225,29,Journey,2013,Dodge,SUV,Ethanol (E85)
+10502,11,219,29,Expedition 2WD / AWD,2013,Ford,SUV,Ethanol (E85)
+10501,11,219,29,Explorer 2WD / AWD,2013,Ford,SUV,Ethanol (E85)
+10500,11,219,29,Police Interceptor Utility,2013,Ford,SUV,Ethanol (E85)
+10568,11,213,29,Terrain FWD / AWD,2013,GMC,SUV,Ethanol (E85)
+10570,11,213,29,Terrain FWD / AWD,2013,GMC,SUV,Ethanol (E85)
+10573,11,213,29,Yukon 1500 2WD/ AWD,2013,GMC,SUV,Ethanol (E85)
+10597,45,213,29,Yukon 2WD / AWD,2013,GMC,SUV,Hybrid Electric
+10578,11,213,29,Yukon 2WD/ AWD,2013,GMC,SUV,Ethanol (E85)
+10598,45,213,29,Yukon Denali 2WD / AWD,2013,GMC,SUV,Hybrid Electric
+10580,11,213,29,Yukon Denali 2WD/ AWD,2013,GMC,SUV,Ethanol (E85)
+10579,11,213,29,Yukon XL 2WD/ AWD,2013,GMC,SUV,Ethanol (E85)
+10574,11,213,29,Yukon XL 2WD/ AWD,2013,GMC,SUV,Ethanol (E85)
+10485,11,275,29,Grand Cherokee 2WD / AWD,2013,Jeep,SUV,Ethanol (E85)
+10533,45,243,29,RX 450h,2013,Lexus,SUV,Hybrid Electric
+10511,11,227,29,Navigator,2013,Lincoln,SUV,Ethanol (E85)
+10537,11,239,29,ML350,2013,Mercedes-Benz,SUV,Ethanol (E85)
+10542,11,217,29,Armada,2013,Nissan,SUV,Ethanol (E85)
+10552,45,221,29,Highlander,2013,Toyota,SUV,Hybrid Electric
+10556,41,221,29,RAV 4 EV,2013,Toyota,SUV,Electric
+10555,11,221,29,Sequoia,2013,Toyota,SUV,Ethanol (E85)
+10561,3,247,29,MV-1,2013,Vehicle Production Group,SUV,CNG - Compressed Natural Gas
+10560,45,347,29,Touareg Hybrid,2013,Volkswagen,SUV,Hybrid Electric
+10321,11,231,29,Escalade 2WD/4WD,2012,Cadillac,SUV,Ethanol (E85)
+10323,11,231,29,Escalade ESV 2WD/4WD,2012,Cadillac,SUV,Ethanol (E85)
+10322,11,231,29,Escalade EXT,2012,Cadillac,SUV,Ethanol (E85)
+10320,45,231,29,Escalade Hybrid,2012,Cadillac,SUV,Hybrid Electric
+10324,11,215,29,Avalanche 1500 2WD/4WD,2012,Chevrolet,SUV,Ethanol (E85)
+10325,11,215,29,Equinox FWD/AWD,2012,Chevrolet,SUV,Ethanol (E85)
+10326,11,215,29,Equinox FWD/AWD,2012,Chevrolet,SUV,Ethanol (E85)
+10345,11,215,29,Suburban 1500 FFV,2012,Chevrolet,SUV,Ethanol (E85)
+10347,11,215,29,Tahoe 1500 FFV,2012,Chevrolet,SUV,Ethanol (E85)
+10334,45,215,29,Tahoe 1500 Hybrid,2012,Chevrolet,SUV,Hybrid Electric
+10338,11,215,29,Tahoe Police Patrol Vehicle FFV,2012,Chevrolet,SUV,Ethanol (E85)
+10289,11,225,29,Durango 2WD/4WD,2012,Dodge,SUV,Ethanol (E85)
+10290,11,225,29,Journey,2012,Dodge,SUV,Ethanol (E85)
+10299,11,219,29,Escape FFV,2012,Ford,SUV,Ethanol (E85)
+10312,45,219,29,Escape Hybrid FWD/4WD,2012,Ford,SUV,Hybrid Electric
+10298,11,219,29,Expedition 2WD/4WD,2012,Ford,SUV,Ethanol (E85)
+10296,11,219,29,Police Interceptor Utility FWD/AWD,2012,Ford,SUV,Ethanol (E85)
+10352,11,213,29,Terrain 2.4L FFV,2012,GMC,SUV,Ethanol (E85)
+10353,11,213,29,Terrain 3.0L FFV,2012,GMC,SUV,Ethanol (E85)
+10346,11,213,29,Yukon 1500 2WD/4WD FFV,2012,GMC,SUV,Ethanol (E85)
+10335,45,213,29,Yukon 1500 Hybrid,2012,GMC,SUV,Hybrid Electric
+10348,11,213,29,Yukon Denali 2WD/4WD FFV,2012,GMC,SUV,Ethanol (E85)
+10292,11,275,29,Grand Cherokee,2012,Jeep,SUV,Ethanol (E85)
+10365,45,243,29,RX 450h,2012,Lexus,SUV,Hybrid Electric
+10314,11,227,29,Navigator 2WD/4WD,2012,Lincoln,SUV,Ethanol (E85)
+10367,11,229,29,Tribute,2012,Mazda,SUV,Ethanol (E85)
+10372,11,217,29,Armada 2WD,2012,Nissan,SUV,Ethanol (E85)
+10376,45,391,29,Cayenne S Hybrid,2012,Porsche,SUV,Hybrid Electric
+10384,45,221,29,Highlander Hybrid,2012,Toyota,SUV,Hybrid Electric
+10382,45,221,29,Prius V,2012,Toyota,SUV,Hybrid Electric
+10386,41,221,29,RAV4 EV,2012,Toyota,SUV,Electric
+10380,11,221,29,Sequoia 4WD FFV,2012,Toyota,SUV,Ethanol (E85)
+10302,3,247,29,MV-1,2012,Vehicle Production Group,SUV,CNG - Compressed Natural Gas
+10387,11,347,29,Routan FFV,2012,Volkswagen,SUV,Ethanol (E85)
+10388,45,347,29,Touareg Hybrid,2012,Volkswagen,SUV,Hybrid Electric
+10101,45,211,29,Active Hybrid X6,2011,BMW,SUV,Hybrid Electric
+10074,11,231,29,Escalade 2WD,2011,Cadillac,SUV,Ethanol (E85)
+10145,11,231,29,Escalade AWD,2011,Cadillac,SUV,Ethanol (E85)
+10146,11,231,29,Escalade ESV 2WD,2011,Cadillac,SUV,Ethanol (E85)
+10147,11,231,29,Escalade ESV AWD,2011,Cadillac,SUV,Ethanol (E85)
+10148,11,231,29,Escalade Ext AWD,2011,Cadillac,SUV,Ethanol (E85)
+10075,45,231,29,Escalade Hybrid,2011,Cadillac,SUV,Hybrid Electric
+10041,11,215,29,Avalanche 1500 4WD,2011,Chevrolet,SUV,Ethanol (E85)
+10042,11,215,29,Equinox AWD,2011,Chevrolet,SUV,Ethanol (E85)
+10150,11,215,29,Equinox FWD,2011,Chevrolet,SUV,Ethanol (E85)
+10046,11,215,29,HHR FWD Automatic,2011,Chevrolet,SUV,Ethanol (E85)
+10149,11,215,29,HHR FWD Manual,2011,Chevrolet,SUV,Ethanol (E85)
+10010,11,215,29,HHR FWD Manual,2011,Chevrolet,SUV,Ethanol (E85)
+10043,11,215,29,Suburban 1500 4WD,2011,Chevrolet,SUV,Ethanol (E85)
+10044,11,215,29,Tahoe 1500 4WD,2011,Chevrolet,SUV,Ethanol (E85)
+10076,45,215,29,Tahoe 1500 Hybrid,2011,Chevrolet,SUV,Hybrid Electric
+10125,11,225,29,Durango 2WD,2011,Dodge,SUV,Ethanol (E85)
+10142,11,225,29,Durango 4WD,2011,Dodge,SUV,Ethanol (E85)
+10124,11,225,29,Journey,2011,Dodge,SUV,Ethanol (E85)
+10011,11,219,29,Escape 4WD,2011,Ford,SUV,Ethanol (E85)
+10081,45,219,29,Escape Hybrid,2011,Ford,SUV,Hybrid Electric
+10012,11,219,29,Expedition 4WD,2011,Ford,SUV,Ethanol (E85)
+10151,11,213,29,Terrain AWD,2011,GMC,SUV,Ethanol (E85)
+10071,11,213,29,Terrain FWD,2011,GMC,SUV,Ethanol (E85)
+10069,11,213,29,Yukon 1500,2011,GMC,SUV,Ethanol (E85)
+10077,45,213,29,Yukon 1500 Hybrid,2011,GMC,SUV,Hybrid Electric
+10152,11,275,29,Grand Cherokee 2WD,2011,Jeep,SUV,Ethanol (E85)
+10050,11,275,29,Grand Cherokee 4WD,2011,Jeep,SUV,Ethanol (E85)
+10055,45,243,29,RX 450h,2011,Lexus,SUV,Hybrid Electric
+10181,11,227,29,Navigator 2WD,2011,Lincoln,SUV,Ethanol (E85)
+10047,11,227,29,Navigator 4WD,2011,Lincoln,SUV,Ethanol (E85)
+10019,45,229,29,Tribute 2WD Hybrid,2011,Mazda,SUV,Hybrid Electric
+10018,11,229,29,Tribute 4WD FFV,2011,Mazda,SUV,Ethanol (E85)
+10154,11,229,29,Tribute FWD FFV,2011,Mazda,SUV,Ethanol (E85)
+10049,45,239,29,ML450 4Matic Hybrid,2011,Mercedes-Benz,SUV,Hybrid Electric
+10080,11,233,29,Mariner,2011,Mercury,SUV,Ethanol (E85)
+10086,45,233,29,Mariner Hybrid,2011,Mercury,SUV,Hybrid Electric
+10156,11,217,29,Armada 2WD FFV,2011,Nissan,SUV,Ethanol (E85)
+10056,11,217,29,Armada 4WD FFV,2011,Nissan,SUV,Ethanol (E85)
+10065,45,221,29,Highlander Hybrid,2011,Toyota,SUV,Hybrid Electric
+10062,11,221,29,Sequoia 4WD,2011,Toyota,SUV,Ethanol (E85)
+10157,11,221,29,Sequoia 4WD FFV,2011,Toyota,SUV,Ethanol (E85)
+10066,45,347,29,Touareg Hybrid,2011,Volkswagen,SUV,Hybrid Electric
+968,11,231,29,Escalade,2010,Cadillac,SUV,Ethanol (E85)
+946,45,231,29,Escalade Hybrid,2010,Cadillac,SUV,Hybrid Electric
+960,11,215,29,HHR 2WD,2010,Chevrolet,SUV,Ethanol (E85)
+980,11,215,29,Suburban C1500,2010,Chevrolet,SUV,Ethanol (E85)
+966,11,215,29,Tahoe,2010,Chevrolet,SUV,Ethanol (E85)
+937,45,215,29,Tahoe Hybrid,2010,Chevrolet,SUV,Hybrid Electric
+977,11,223,29,Town & Country,2010,Chrysler,SUV,Ethanol (E85)
+976,11,225,29,Grand Caravan,2010,Dodge,SUV,Ethanol (E85)
+963,11,219,29,Escape,2010,Ford,SUV,Ethanol (E85)
+945,45,219,29,Escape Hybrid,2010,Ford,SUV,Hybrid Electric
+961,11,219,29,Expedition,2010,Ford,SUV,Ethanol (E85)
+967,11,213,29,Yukon,2010,GMC,SUV,Ethanol (E85)
+938,45,213,29,Yukon 1500,2010,GMC,SUV,Hybrid Electric
+930,45,243,29,RX 450h,2010,Lexus,SUV,Hybrid Electric
+970,11,227,29,Navigator,2010,Lincoln,SUV,Ethanol (E85)
+969,11,229,29,Tribute,2010,Mazda,SUV,Ethanol (E85)
+947,45,229,29,Tribute Hybrid,2010,Mazda,SUV,Hybrid Electric
+964,11,233,29,Mariner,2010,Mercury,SUV,Ethanol (E85)
+949,45,233,29,Mariner Hybrid,2010,Mercury,SUV,Hybrid Electric
+974,11,217,29,Armada,2010,Nissan,SUV,Ethanol (E85)
+948,45,221,29,Highlander,2010,Toyota,SUV,Hybrid Electric
+975,11,221,29,Sequoia,2010,Toyota,SUV,Ethanol (E85)
+923,3,247,29,MV-1,2010,Vehicle Production Group,SUV,CNG - Compressed Natural Gas
+888,11,231,29,Escalade FFV,2009,Cadillac,SUV,Ethanol (E85)
+890,45,231,29,Escalade Hybrid,2009,Cadillac,SUV,Hybrid Electric
+867,11,215,29,HHR FFV,2009,Chevrolet,SUV,Ethanol (E85)
+872,11,215,29,Suburban FFV,2009,Chevrolet,SUV,Ethanol (E85)
+885,45,215,29,Tahoe 1500 Hybrid,2009,Chevrolet,SUV,Hybrid Electric
+870,11,215,29,Tahoe FFV,2009,Chevrolet,SUV,Ethanol (E85)
+845,11,223,29,Aspen FFV,2009,Chrysler,SUV,Ethanol (E85)
+853,45,223,29,Aspen Hybrid,2009,Chrysler,SUV,Hybrid Electric
+846,11,225,29,Durango FFV,2009,Dodge,SUV,Ethanol (E85)
+854,45,225,29,Durango Hybrid,2009,Dodge,SUV,Hybrid Electric
+864,45,219,29,Escape Hybrid,2009,Ford,SUV,Hybrid Electric
+858,11,219,29,Expedition FFV,2009,Ford,SUV,Ethanol (E85)
+884,45,213,29,Yukon 1500 Hybrid,2009,GMC,SUV,Hybrid Electric
+871,11,213,29,Yukon FFV,2009,GMC,SUV,Ethanol (E85)
+873,11,213,29,Yukon XL FFV,2009,GMC,SUV,Ethanol (E85)
+889,11,271,29,H2 FFV,2009,HUMMER,SUV,Ethanol (E85)
+851,11,275,29,Commander FFV,2009,Jeep,SUV,Ethanol (E85)
+852,11,275,29,Grand Cherokee FFV,2009,Jeep,SUV,Ethanol (E85)
+863,11,227,29,Navigator FFV,2009,Lincoln,SUV,Ethanol (E85)
+887,45,229,29,Tribute Hybrid,2009,Mazda,SUV,Hybrid Electric
+865,45,233,29,Mariner Hybrid,2009,Mercury,SUV,Hybrid Electric
+892,11,217,29,Armada FFV,2009,Nissan,SUV,Ethanol (E85)
+883,45,273,29,VUE Green Line,2009,Saturn,SUV,Hybrid Electric
+898,45,221,29,Highlander Hybrid,2009,Toyota,SUV,Hybrid Electric
+792,11,215,29,Police Tahoe FFV,2008,Chevrolet,SUV,Ethanol (E85)
+794,11,215,29,Suburban FFV,2008,Chevrolet,SUV,Ethanol (E85)
+791,11,215,29,Tahoe FFV,2008,Chevrolet,SUV,Ethanol (E85)
+806,45,215,29,Tahoe Hybrid,2008,Chevrolet,SUV,Hybrid Electric
+814,11,223,29,Aspen FFV,2008,Chrysler,SUV,Ethanol (E85)
+811,11,225,29,Durango FFV,2008,Dodge,SUV,Ethanol (E85)
+826,45,219,29,Escape Hybrid,2008,Ford,SUV,Hybrid Electric
+807,45,213,29,Yukon,2008,GMC,SUV,Hybrid Electric
+798,11,213,29,Yukon FFV,2008,GMC,SUV,Ethanol (E85)
+797,11,213,29,Yukon XL FFV,2008,GMC,SUV,Ethanol (E85)
+813,11,275,29,Commander FFV,2008,Jeep,SUV,Ethanol (E85)
+812,11,275,29,Grand Cherokee FFV,2008,Jeep,SUV,Ethanol (E85)
+838,45,229,29,Tribute,2008,Mazda,SUV,Hybrid Electric
+824,45,233,29,Mariner,2008,Mercury,SUV,Hybrid Electric
+836,11,217,29,Armada FFV,2008,Nissan,SUV,Ethanol (E85)
+803,45,273,29,VUE Green Line,2008,Saturn,SUV,Hybrid Electric
+829,45,221,29,Highlander,2008,Toyota,SUV,Hybrid Electric
+831,45,221,29,Lexus RX 400h Hybrid,2008,Toyota,SUV,Hybrid Electric
+686,11,215,29,Police Tahoe FFV,2007,Chevrolet,SUV,Ethanol (E85)
+688,11,215,29,Suburban FFV,2007,Chevrolet,SUV,Ethanol (E85)
+685,11,215,29,Tahoe FFV,2007,Chevrolet,SUV,Ethanol (E85)
+709,11,223,29,Aspen FFV,2007,Chrysler,SUV,Ethanol (E85)
+706,11,225,29,Durango FFV,2007,Dodge,SUV,Ethanol (E85)
+679,45,219,29,Escape Hybrid,2007,Ford,SUV,Hybrid Electric
+694,11,213,29,Yukon FFV,2007,GMC,SUV,Ethanol (E85)
+693,11,213,29,Yukon XL FFV,2007,GMC,SUV,Ethanol (E85)
+708,11,275,29,Commander FFV,2007,Jeep,SUV,Ethanol (E85)
+707,11,275,29,Grand Cherokee FFV,2007,Jeep,SUV,Ethanol (E85)
+680,45,233,29,Mariner,2007,Mercury,SUV,Hybrid Electric
+700,11,217,29,Armada FFV,2007,Nissan,SUV,Ethanol (E85)
+697,45,273,29,VUE Green Line,2007,Saturn,SUV,Hybrid Electric
+670,45,221,29,Highlander,2007,Toyota,SUV,Hybrid Electric
+671,45,221,29,Lexus RX 400h,2007,Toyota,SUV,Hybrid Electric
+467,11,215,29,Suburban FFV,2006,Chevrolet,SUV,Ethanol (E85)
+468,11,215,29,Tahoe FFV,2006,Chevrolet,SUV,Ethanol (E85)
+461,11,225,29,Durango FFV,2006,Dodge,SUV,Ethanol (E85)
+489,45,219,29,Escape Hybrid,2006,Ford,SUV,Hybrid Electric
+484,11,213,29,Yukon FFV,2006,GMC,SUV,Ethanol (E85)
+483,11,213,29,Yukon XL FFV,2006,GMC,SUV,Ethanol (E85)
+492,45,233,29,Mariner Hybrid,2006,Mercury,SUV,Hybrid Electric
+487,45,221,29,Highlander Hybrid,2006,Toyota,SUV,Hybrid Electric
+390,45,221,29,Lexus 400rh Hybrid,2006,Toyota,SUV,Hybrid Electric
+395,11,215,29,Suburban FFV,2005,Chevrolet,SUV,Ethanol (E85)
+399,11,215,29,Tahoe FFV,2005,Chevrolet,SUV,Ethanol (E85)
+375,45,219,29,Escape Hybrid,2005,Ford,SUV,Hybrid Electric
+373,11,219,29,Explorer FFV,2005,Ford,SUV,Ethanol (E85)
+374,11,219,29,Explorer Sport Trac FFV,2005,Ford,SUV,Ethanol (E85)
+380,11,213,29,Yukon FFV,2005,GMC,SUV,Ethanol (E85)
+381,11,213,29,Yukon XL FFV,2005,GMC,SUV,Ethanol (E85)
+376,11,233,29,Mountaineer FFV,2005,Mercury,SUV,Ethanol (E85)
+389,45,221,29,Highlander Hybrid,2005,Toyota,SUV,Hybrid Electric
+261,11,215,29,Suburban FFV,2004,Chevrolet,SUV,Ethanol (E85)
+249,11,215,29,Tahoe FFV,2004,Chevrolet,SUV,Ethanol (E85)
+267,11,219,29,Explorer FFV,2004,Ford,SUV,Ethanol (E85)
+268,11,219,29,Explorer Sport Trac FFV,2004,Ford,SUV,Ethanol (E85)
+256,11,213,29,Yukon FFV,2004,GMC,SUV,Ethanol (E85)
+250,11,213,29,Yukon XL FFV,2004,GMC,SUV,Ethanol (E85)
+292,11,233,29,Mountaineer FFV,2004,Mercury,SUV,Ethanol (E85)
+566,11,215,29,Suburban FFV,2003,Chevrolet,SUV,Ethanol (E85)
+564,11,215,29,Tahoe FFV,2003,Chevrolet,SUV,Ethanol (E85)
+269,11,219,29,Sport Track FFV,2003,Ford,SUV,Ethanol (E85)
+565,11,213,29,Yukon FFV,2003,GMC,SUV,Ethanol (E85)
+567,11,213,29,Yukon XL FFV,2003,GMC,SUV,Ethanol (E85)
+270,11,233,29,Mountaineer SUV FFV,2003,Mercury,SUV,Ethanol (E85)
+556,11,233,29,Mountaineer Wagon FFV,2003,Mercury,SUV,Ethanol (E85)
+262,41,221,29,RAV4-EV,2003,Toyota,SUV,Electric
+199,11,215,29,Suburban FFV,2002,Chevrolet,SUV,Ethanol (E85)
+197,11,215,29,Tahoe FFV,2002,Chevrolet,SUV,Ethanol (E85)
+179,11,219,29,Explorer FFV,2002,Ford,SUV,Ethanol (E85)
+180,11,219,29,Explorer Sport FFV,2002,Ford,SUV,Ethanol (E85)
+181,11,219,29,Explorer Sport Track FFV,2002,Ford,SUV,Ethanol (E85)
+198,11,213,29,Yukon FFV,2002,GMC,SUV,Ethanol (E85)
+200,11,213,29,Yukon XL FFV,2002,GMC,SUV,Ethanol (E85)
+209,41,221,29,RAV4-EV,2002,Toyota,SUV,Electric
+138,11,219,29,Explorer Sport FFV,2001,Ford,SUV,Ethanol (E85)
+122,41,221,29,RAV4-EV,2001,Toyota,SUV,Electric
+82,41,221,29,RAV4-EV,2000,Toyota,SUV,Electric
+582,41,221,29,RAV4-EV NiMH,1999,Toyota,SUV,Electric
+50,41,221,29,RAV4-EV PbA,1999,Toyota,SUV,Electric
+596,41,221,29,RAV4-EV NiMH (Flts.),1998,Toyota,SUV,Electric
+595,41,221,29,RAV4-EV PbA (Fleets),1998,Toyota,SUV,Electric
