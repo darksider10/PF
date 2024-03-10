@@ -1,0 +1,450 @@
+Year,Manufacturer,Model,Vehicle Class,Fuel,Consumption,CO2 (mg/mile)
+2023,Acura,Integra,Full-size,Gasoline,2.09,103.77
+2023,Acura,Integra A-SPEC,Full-size,Gasoline,2.14,106.88
+2023,Acura,MDX SH-AWD,SUV: Small,Gasoline,3.33,163.42
+2023,Acura,MDX SH-AWD Type S,SUV: Standard,Gasoline,3.65,180.82
+2023,Acura,RDX SH-AWD,SUV: Small,Gasoline,2.91,144.16
+2023,Acura,RDX SH-AWD A-SPEC,SUV: Small,Gasoline,2.99,150.37
+2023,Acura,TLX SH-AWD,Compact,Gasoline,2.96,142.92
+2023,Acura,TLX SH-AWD A-SPEC,Compact,Gasoline,2.99,143.54
+2023,Acura,TLX Type S,Compact,Gasoline,3.25,159.07
+2023,Alfa Romeo,Giulia,Mid-size,Gasoline,2.64,127.38
+2023,Alfa Romeo,Giulia AWD,Mid-size,Gasoline,2.77,134.84
+2023,Alfa Romeo,Giulia Quadrifoglio,Mid-size,Gasoline,3.57,168.39
+2023,Alfa Romeo,Stelvio,SUV: Small,Gasoline,2.72,135.46
+2023,Alfa Romeo,Stelvio AWD,SUV: Small,Gasoline,2.85,140.43
+2023,Alfa Romeo,Stelvio AWD Quadrifoglio,SUV: Small,Gasoline,3.67,178.95
+2023,Alfa Romeo,Tonale AWD,SUV: Small,Gasoline,2.96,143.54
+2023,Aston Martin,DBX V8,SUV: Standard,Gasoline,4.44,213.13
+2023,Aston Martin,DBX707,SUV: Standard,Gasoline,4.15,204.43
+2023,Audi,A4 Sedan 45 TFSI quattro,Compact,Gasoline,2.56,126.14
+2023,Audi,A5 Sportback 45 TFSI quattro,Mid-size,Gasoline,2.56,126.14
+2023,Audi,A6 45 TFSI quattro,Mid-size,Gasoline,2.64,128.62
+2023,Audi,A6 55 TFSI quattro,Mid-size,Gasoline,2.93,139.19
+2023,Audi,A7 Sportback 55 TFSI quattro,Mid-size,Gasoline,2.93,139.19
+2023,Audi,A8 L Sedan 55 TFSI quattro,Full-size,Gasoline,3.3,153.48
+2023,Audi,Q3 40 TFSI quattro,SUV: Small,Gasoline,2.88,139.19
+2023,Audi,Q3 45 TFSI quattro,SUV: Small,Gasoline,2.96,144.78
+2023,Audi,Q5 40 TFSI quattro,SUV: Small,Gasoline,2.69,134.84
+2023,Audi,Q5 45 TFSI quattro,SUV: Small,Gasoline,2.8,138.57
+2023,Audi,Q5 Sportback 45 TFSI quattro,SUV: Small,Gasoline,2.8,138.57
+2023,Audi,Q7 45 TFSI quattro,SUV: Standard,Gasoline,3.22,159.69
+2023,Audi,Q7 55 TFSI quattro,SUV: Standard,Gasoline,3.41,174.61
+2023,Audi,Q8 55 TFSI quattro,SUV: Standard,Gasoline,3.38,169.63
+2023,Audi,RS 5 Sportback quattro,Mid-size,Gasoline,3.49,165.91
+2023,Audi,RS 7 Sportback quattro,Mid-size,Gasoline,4.33,203.81
+2023,Audi,RS Q8 quattro,SUV: Standard,Gasoline,4.62,216.86
+2023,Audi,S4 Sedan quattro,Compact,Gasoline,2.93,140.43
+2023,Audi,S5 Sportback quattro,Mid-size,Gasoline,2.93,140.43
+2023,Audi,S6 quattro,Mid-size,Gasoline,3.25,157.83
+2023,Audi,S7 quattro,Mid-size,Gasoline,3.25,157.83
+2023,Audi,S8 Sedan quattro,Full-size,Gasoline,4.2,194.49
+2023,Audi,SQ5 quattro,SUV: Small,Gasoline,3.3,162.8
+2023,Audi,SQ5 Sportback quattro,SUV: Small,Gasoline,3.3,162.8
+2023,Audi,SQ7 quattro,SUV: Standard,Gasoline,4.25,201.95
+2023,Audi,SQ8 quattro,SUV: Standard,Gasoline,4.25,201.95
+2023,Bentley,Bentayga,SUV: Standard,Gasoline,4.28,203.81
+2023,Bentley,Bentayga EWB,SUV: Standard,Gasoline,4.28,203.81
+2023,Bentley,Bentayga Speed,SUV: Standard,Gasoline,5.1,237.99
+2023,Bentley,Flying Spur,Mid-size,Gasoline,4.2,198.22
+2023,Bentley,Flying Spur Speed,Mid-size,Gasoline,5.07,231.77
+2023,BMW,330i xDrive Sedan,Compact,Gasoline,2.59,124.27
+2023,BMW,530i xDrive Sedan,Mid-size,Gasoline,2.67,128.0
+2023,BMW,540i xDrive Sedan,Mid-size,Gasoline,2.77,136.08
+2023,BMW,760i xDrive Sedan,Full-size,Gasoline,3.43,162.18
+2023,BMW,ALPINA B8 Gran Coupe,Mid-size,Gasoline,3.72,176.47
+2023,BMW,ALPINA XB7,SUV: Standard,Gasoline,4.02,195.11
+2023,BMW,M3 Sedan,Compact,Gasoline,3.88,182.06
+2023,BMW,M3 Competition M xDrive Sedan,Compact,Gasoline,3.86,183.93
+2023,BMW,M340i xDrive Sedan,Compact,Gasoline,2.72,130.49
+2023,BMW,M5 Sedan,Mid-size,Gasoline,4.25,201.32
+2023,BMW,M5 Competition Sedan,Mid-size,Gasoline,4.25,201.32
+2023,BMW,M550i xDrive Sedan,Mid-size,Gasoline,3.7,172.12
+2023,BMW,M8 Competition Gran Coupe,Mid-size,Gasoline,4.25,199.46
+2023,BMW,M850i xDrive Gran Coupe,Mid-size,Gasoline,3.72,176.47
+2023,BMW,X1 xDrive28i,SUV: Small,Gasoline,2.54,121.17
+2023,BMW,X3 xDrive30i,SUV: Small,Gasoline,2.91,142.29
+2023,BMW,X3 M,SUV: Small,Gasoline,4.15,200.7
+2023,BMW,X3 M Competition,SUV: Small,Gasoline,4.15,200.7
+2023,BMW,X3 M40i,SUV: Small,Gasoline,2.88,146.02
+2023,BMW,X4 xDrive30i,SUV: Small,Gasoline,2.91,142.29
+2023,BMW,X4 M,SUV: Small,Gasoline,4.15,200.7
+2023,BMW,X4 M Competition,SUV: Small,Gasoline,4.15,200.7
+2023,BMW,X4 M40i,SUV: Small,Gasoline,2.88,146.02
+2023,BMW,X5 xDrive40i,SUV: Standard,Gasoline,3.01,150.37
+2023,BMW,X5 M,SUV: Standard,Gasoline,4.73,226.18
+2023,BMW,X5 M Competition,SUV: Standard,Gasoline,4.73,226.18
+2023,BMW,X5 M50i,SUV: Standard,Gasoline,3.88,187.65
+2023,BMW,X6 xDrive40i,SUV: Standard,Gasoline,3.01,150.37
+2023,BMW,X6 M,SUV: Standard,Gasoline,4.73,226.18
+2023,BMW,X6 M Competition,SUV: Standard,Gasoline,4.73,226.18
+2023,BMW,X6 M50i,SUV: Standard,Gasoline,3.88,187.65
+2023,BMW,X7 xDrive40i,SUV: Standard,Gasoline,2.99,150.99
+2023,BMW,X7 M60i xDrive,SUV: Standard,Gasoline,3.78,185.79
+2023,Buick,Enclave AWD,SUV: Standard,Gasoline,3.59,172.12
+2023,Buick,Encore GX,SUV: Small,Gasoline,2.11,114.33
+2023,Buick,Encore GX AWD,SUV: Small,Gasoline,2.38,125.52
+2023,Buick,Envision,SUV: Small,Gasoline,2.69,131.11
+2023,Buick,Envision AWD,SUV: Small,Gasoline,2.77,137.94
+2023,Cadillac,CT4,Compact,Gasoline,2.69,128.0
+2023,Cadillac,CT4 AWD,Compact,Gasoline,2.77,134.22
+2023,Cadillac,CT4-V,Compact,Gasoline,3.14,148.51
+2023,Cadillac,CT4-V AWD,Compact,Gasoline,3.17,151.61
+2023,Cadillac,CT4-V Blackwing,Compact,Gasoline,3.96,184.55
+2023,Cadillac,CT5,Mid-size,Gasoline,2.72,128.62
+2023,Cadillac,CT5 AWD,Mid-size,Gasoline,2.88,137.94
+2023,Cadillac,CT5-V,Mid-size,Gasoline,3.46,163.42
+2023,Cadillac,CT5-V AWD,Mid-size,Gasoline,3.46,164.66
+2023,Cadillac,CT5-V Blackwing,Mid-size,Gasoline,4.73,215.62
+2023,Cadillac,Escalade 4WD,SUV: Standard,Diesel,3.09,174.61
+2023,Cadillac,Escalade-V AWD,SUV: Standard,Gasoline,5.71,270.92
+2023,Cadillac,XT4,SUV: Small,Gasoline,2.69,132.97
+2023,Cadillac,XT4 AWD,SUV: Small,Gasoline,2.88,141.67
+2023,Cadillac,XT5,SUV: Small,Gasoline,2.88,141.67
+2023,Cadillac,XT5 AWD,SUV: Small,Gasoline,2.96,147.26
+2023,Cadillac,XT6 AWD,SUV: Small,Gasoline,2.96,148.51
+2023,Chevrolet,Blazer,SUV: Small,Gasoline,2.8,141.05
+2023,Chevrolet,Blazer AWD,SUV: Small,Gasoline,2.85,144.16
+2023,Chevrolet,Equinox,SUV: Small,Gasoline,2.35,122.41
+2023,Chevrolet,Equinox AWD,SUV: Small,Gasoline,2.62,131.11
+2023,Chevrolet,Malibu,Mid-size,Gasoline,2.27,112.47
+2023,Chevrolet,Suburban,SUV: Standard,Diesel,2.96,169.01
+2023,Chevrolet,Suburban 4WD,SUV: Standard,Diesel,3.09,174.61
+2023,Chevrolet,Tahoe,SUV: Standard,Diesel,2.91,164.66
+2023,Chevrolet,Tahoe 4WD,SUV: Standard,Diesel,3.09,174.61
+2023,Chevrolet,Trailblazer,SUV: Small,Gasoline,2.11,114.33
+2023,Chevrolet,Trailblazer AWD,SUV: Small,Gasoline,2.35,122.41
+2023,Chevrolet,Traverse AWD,SUV: Standard,Gasoline,3.59,172.12
+2023,Chrysler,300,Full-size,Gasoline,3.28,150.37
+2023,Chrysler,300 AWD,Full-size,Gasoline,3.38,160.31
+2023,Chrysler,300C,Full-size,Gasoline,4.2,190.76
+2023,Dodge,Challenger,Mid-size,Gasoline,3.28,150.37
+2023,Dodge,Challenger (MDS),Mid-size,Gasoline,3.88,179.58
+2023,Dodge,Challenger AWD,Mid-size,Gasoline,3.38,160.31
+2023,Dodge,Challenger Widebody (MDS),Mid-size,Gasoline,4.2,190.76
+2023,Dodge,Challenger Widebody,Mid-size,Gasoline,4.41,201.95
+2023,Dodge,Challenger SRT Hellcat,Mid-size,Gasoline,4.65,210.64
+2023,Dodge,Challenger SRT Hellcat Widebody,Mid-size,Gasoline,4.91,223.07
+2023,Dodge,Charger,Full-size,Gasoline,3.28,150.37
+2023,Dodge,Charger (MDS),Full-size,Gasoline,3.88,179.58
+2023,Dodge,Charger AWD,Full-size,Gasoline,3.38,160.31
+2023,Dodge,Charger Widebody (MDS),Full-size,Gasoline,4.2,190.76
+2023,Dodge,Charger SRT Hellcat Widebody,Full-size,Gasoline,5.02,228.66
+2023,Dodge,Durango AWD,SUV: Standard,Gasoline,3.43,165.28
+2023,Dodge,Durango AWD SRT,SUV: Standard,Gasoline,4.83,225.56
+2023,Dodge,Durango AWD SRT Hellcat,SUV: Standard,Gasoline,5.42,254.76
+2023,Dodge,Hornet AWD,SUV: Small,Gasoline,2.96,143.54
+2023,FIAT,500X AWD,SUV: Small,Gasoline,2.64,137.32
+2023,Ford,Bronco 4WD,SUV: Small,Gasoline,3.2,169.63
+2023,Ford,Bronco Badlands 4WD,SUV: Small,Gasoline,3.65,201.32
+2023,Ford,Bronco Black Diamond 4WD,SUV: Small,Gasoline,3.46,191.38
+2023,Ford,Bronco Raptor 4WD,SUV: Standard,Gasoline,4.15,222.45
+2023,Ford,Bronco Sasquatch 4WD,SUV: Small,Gasoline,3.46,195.11
+2023,Ford,Bronco Sport 4WD,SUV: Small,Gasoline,2.46,129.87
+2023,Ford,Edge AWD,SUV: Small,Gasoline,3.06,148.51
+2023,Ford,Escape,SUV: Small,Gasoline,2.35,116.82
+2023,Ford,Escape AWD,SUV: Small,Gasoline,2.43,122.41
+2023,Ford,Escape Hybrid,SUV: Small,Gasoline,1.48,86.99
+2023,Ford,Escape Hybrid AWD,SUV: Small,Gasoline,1.48,86.99
+2023,Ford,Expedition 4X4,SUV: Standard,Gasoline,3.88,187.65
+2023,Ford,Expedition 4X4 (Without Stop-Start),SUV: Standard,Gasoline,4.07,197.6
+2023,Ford,Expedition Timberline 4X4,SUV: Standard,Gasoline,3.83,197.6
+2023,Ford,Expedition Timberline 4X4 (Without Stop-Start),SUV: Standard,Gasoline,4.02,203.19
+2023,Ford,Explorer AWD,SUV: Standard,Gasoline,3.06,149.75
+2023,Ford,Explorer AWD (Without Stop-Start),SUV: Standard,Gasoline,3.17,155.96
+2023,Ford,Explorer Timberline AWD,SUV: Standard,Gasoline,3.22,167.15
+2023,Ford,Explorer Timberline AWD (Without Stop-Start),SUV: Standard,Gasoline,3.3,172.12
+2023,Ford,Explorer Hybrid AWD,SUV: Standard,Gasoline,2.67,139.81
+2023,Genesis,G70 AWD,Compact,Gasoline,3.01,146.64
+2023,Genesis,G80 AWD,Full-size,Gasoline,2.85,139.81
+2023,Genesis,G90,Full-size,Gasoline,3.59,170.26
+2023,Genesis,GV70 AWD,SUV: Small,Gasoline,2.83,142.29
+2023,Genesis,GV80 AWD,SUV: Standard,Gasoline,2.99,154.1
+2023,GMC,Acadia AWD,SUV: Standard,Gasoline,2.85,144.16
+2023,GMC,Terrain,SUV: Small,Gasoline,2.56,131.11
+2023,GMC,Terrain AWD,SUV: Small,Gasoline,2.62,134.22
+2023,GMC,Yukon,SUV: Standard,Diesel,2.96,169.01
+2023,GMC,Yukon 4WD,SUV: Standard,Diesel,3.09,174.61
+2023,GMC,Yukon XL,SUV: Standard,Diesel,2.96,169.01
+2023,GMC,Yukon XL 4WD,SUV: Standard,Diesel,3.09,174.61
+2023,Honda,Accord,Full-size,Gasoline,2.14,106.25
+2023,Honda,Accord Hybrid Sport/Touring,Mid-size,Gasoline,1.32,77.05
+2023,Honda,Civic Hatchback,Full-size,Gasoline,2.03,103.15
+2023,Honda,Civic Sedan,Mid-size,Gasoline,2.01,100.66
+2023,Honda,Civic Sedan Si,Mid-size,Gasoline,2.3,111.85
+2023,Honda,Civic Type R,Full-size,Gasoline,2.85,139.19
+2023,Honda,CR-V,SUV: Small,Gasoline,2.22,112.47
+2023,Honda,CR-V AWD,SUV: Small,Gasoline,2.4,122.41
+2023,Honda,CR-V Hybrid AWD,SUV: Small,Gasoline,1.59,93.83
+2023,Honda,Passport AWD,SUV: Small,Gasoline,3.3,164.66
+2023,Honda,Pilot AWD,SUV: Standard,Gasoline,3.28,160.31
+2023,Honda,Pilot AWD Touring/Elite/Black,SUV: Standard,Gasoline,3.35,162.8
+2023,Honda,Pilot AWD TrailSport,SUV: Standard,Gasoline,3.43,170.88
+2023,Hyundai,Elantra,Mid-size,Gasoline,2.22,111.23
+2023,Hyundai,Elantra (ISG),Mid-size,Gasoline,1.88,93.83
+2023,Hyundai,Elantra N,Mid-size,Gasoline,3.2,149.75
+2023,Hyundai,Elantra Hybrid,Mid-size,Gasoline,1.27,68.35
+2023,Hyundai,Kona,SUV: Small,Gasoline,2.11,108.12
+2023,Hyundai,Kona N,SUV: Small,Gasoline,3.12,152.86
+2023,Hyundai,Kona AWD,SUV: Small,Gasoline,2.32,119.92
+2023,Hyundai,Palisade AWD,SUV: Small,Gasoline,3.33,163.42
+2023,Hyundai,Santa Fe AWD,SUV: Small,Gasoline,2.91,144.78
+2023,Hyundai,Santa Fe Hybrid,SUV: Small,Gasoline,1.88,109.36
+2023,Hyundai,Sonata,Full-size,Gasoline,2.38,115.58
+2023,Hyundai,Sonata Hybrid,Full-size,Gasoline,1.4,72.7
+2023,Hyundai,Tucson,SUV: Small,Gasoline,2.48,124.27
+2023,Hyundai,Tucson AWD,SUV: Small,Gasoline,2.67,135.46
+2023,Hyundai,Tucson Hybrid,SUV: Small,Gasoline,1.66,94.45
+2023,Hyundai,Venue,Mid-size,Gasoline,2.09,109.98
+2023,Infiniti,Q50 AWD,Mid-size,Gasoline,3.3,157.83
+2023,Infiniti,Q50 AWD Red Sport,Mid-size,Gasoline,3.3,162.18
+2023,Infiniti,QX50 AWD,SUV: Small,Gasoline,2.85,141.67
+2023,Infiniti,QX55 AWD,SUV: Small,Gasoline,2.75,137.94
+2023,Infiniti,QX60 AWD,SUV: Standard,Gasoline,3.14,155.96
+2023,Infiniti,QX80 4WD,SUV: Standard,Gasoline,4.62,220.59
+2023,Jaguar,E-PACE P250,SUV: Small,Gasoline,3.04,153.48
+2023,Jaguar,F-PACE P250,SUV: Small,Gasoline,2.83,141.05
+2023,Jaguar,F-PACE P400,SUV: Small,Gasoline,3.2,157.21
+2023,Jaguar,F-PACE P550 SVR,SUV: Small,Gasoline,4.07,196.35
+2023,Jaguar,XF P250,Mid-size,Gasoline,2.48,122.41
+2023,Jaguar,XF P300 AWD,Mid-size,Gasoline,2.8,136.08
+2023,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,Gasoline,2.96,142.92
+2023,Jeep,Cherokee 4X4 Trailhawk Active Drive Lock,SUV: Small,Gasoline,3.12,154.72
+2023,Jeep,Compass 4X4,SUV: Small,Gasoline,2.62,127.38
+2023,Jeep,Grand Cherokee 4X4,SUV: Standard,Gasoline,3.25,159.07
+2023,Jeep,Grand Cherokee L 4X4,SUV: Standard,Gasoline,3.43,165.28
+2023,Jeep,Grand Wagoneer 4X4 (High Output),SUV: Standard,Gasoline,4.31,207.54
+2023,Jeep,Grand Wagoneer 4X4,SUV: Standard,Gasoline,4.91,232.39
+2023,Jeep,Grand Wagoneer L 4X4 (High Output),SUV: Standard,Gasoline,4.49,218.72
+2023,Jeep,Renegade 4X4,SUV: Small,Gasoline,2.67,137.94
+2023,Jeep,Renegade 4X4 Trailhawk,SUV: Small,Gasoline,2.85,143.54
+2023,Jeep,Wagoneer 4X4,SUV: Standard,Gasoline,3.83,182.06
+2023,Jeep,Wagoneer L 4X4,SUV: Standard,Gasoline,3.83,184.55
+2023,Jeep,Wrangler JL 4X4,SUV: Small,Gasoline,2.83,149.75
+2023,Jeep,Wrangler JL 4X4 eTorque,SUV: Small,Gasoline,3.17,160.31
+2023,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,Gasoline,3.04,155.96
+2023,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,Diesel,2.8,158.45
+2023,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,Diesel,2.96,170.88
+2023,Jeep,Wrangler JL Unlimited 4X4 eTorque,SUV: Small,Gasoline,3.25,162.8
+2023,Jeep,Wrangler JL Unlimited 4X4 392,SUV: Small,Gasoline,4.89,240.47
+2023,Kia,Forte,Mid-size,Gasoline,2.3,114.33
+2023,Kia,Forte 5,Full-size,Gasoline,2.35,118.06
+2023,Kia,K5,Full-size,Gasoline,2.62,128.62
+2023,Kia,K5 AWD,Full-size,Gasoline,2.46,121.79
+2023,Kia,Rio,Compact,Gasoline,1.9,99.42
+2023,Kia,Seltos,SUV: Small,Gasoline,2.17,113.09
+2023,Kia,Seltos AWD,SUV: Small,Gasoline,2.48,127.38
+2023,Kia,Sorento AWD,SUV: Small,Gasoline,2.88,145.4
+2023,Kia,Sorento Hybrid AWD,SUV: Small,Gasoline,1.69,97.56
+2023,Kia,Sportage,SUV: Small,Gasoline,2.46,123.03
+2023,Kia,Sportage AWD,SUV: Small,Gasoline,2.75,139.19
+2023,Kia,Sportage Hybrid AWD,SUV: Small,Gasoline,1.61,90.1
+2023,Kia,Stinger AWD,Mid-size,Gasoline,3.62,173.98
+2023,Kia,Telluride AWD,SUV: Small,Gasoline,3.38,167.15
+2023,Lamborghini,Urus Performante,SUV: Standard,Gasoline,4.39,214.37
+2023,Lamborghini,Urus S,SUV: Standard,Gasoline,4.39,214.37
+2023,Land Rover,Defender 90 P300,SUV: Standard,Gasoline,3.49,179.58
+2023,Land Rover,Defender 90 P400,SUV: Standard,Gasoline,3.41,171.5
+2023,Land Rover,Defender 90 5.0L V8,SUV: Standard,Gasoline,4.17,210.64
+2023,Land Rover,Defender 110 P300,SUV: Standard,Gasoline,3.75,190.14
+2023,Land Rover,Defender 110 P400,SUV: Standard,Gasoline,3.41,171.5
+2023,Land Rover,Defender 110 5.0L V8,SUV: Standard,Gasoline,4.33,217.48
+2023,Land Rover,Discovery P300,SUV: Standard,Gasoline,3.22,168.39
+2023,Land Rover,Discovery P360,SUV: Standard,Gasoline,3.2,160.31
+2023,Land Rover,Discovery Sport P250,SUV: Small,Gasoline,3.35,168.39
+2023,Land Rover,Range Rover P400,SUV: Standard,Gasoline,3.46,164.66
+2023,Land Rover,Range Rover P400 LWB,SUV: Standard,Gasoline,3.46,164.66
+2023,Land Rover,Range Rover P530,SUV: Standard,Gasoline,3.99,196.35
+2023,Land Rover,Range Rover P530 LWB,SUV: Standard,Gasoline,4.02,195.11
+2023,Land Rover,Range Rover Sport P360,SUV: Standard,Gasoline,3.25,157.83
+2023,Land Rover,Range Rover Sport HST P400,SUV: Standard,Gasoline,3.46,164.66
+2023,Land Rover,Range Rover Sport P530,SUV: Standard,Gasoline,3.99,196.35
+2023,Land Rover,Range Rover Evoque P250,SUV: Small,Gasoline,3.14,153.48
+2023,Land Rover,Range Rover Evoque P300,SUV: Small,Gasoline,2.99,151.61
+2023,Land Rover,Range Rover Velar P250,SUV: Small,Gasoline,3.04,151.61
+2023,Land Rover,Range Rover Velar P340,SUV: Small,Gasoline,3.12,154.1
+2023,Land Rover,Range Rover Velar P400,SUV: Small,Gasoline,3.33,164.66
+2023,Lexus,ES 250 AWD,Mid-size,Gasoline,2.51,121.17
+2023,Lexus,ES 300h,Mid-size,Gasoline,1.45,77.05
+2023,Lexus,ES 350,Mid-size,Gasoline,2.83,132.97
+2023,Lexus,ES 350 F SPORT,Mid-size,Gasoline,2.88,136.08
+2023,Lexus,GX 460,SUV: Standard,Gasoline,4.28,209.4
+2023,Lexus,IS 300,Compact,Gasoline,2.91,137.32
+2023,Lexus,IS 300 AWD,Compact,Gasoline,3.22,157.21
+2023,Lexus,IS 350 AWD,Compact,Gasoline,3.22,157.21
+2023,Lexus,IS 500,Compact,Gasoline,3.72,173.98
+2023,Lexus,LS 500 AWD,Mid-size,Gasoline,3.65,167.77
+2023,Lexus,LS 500h AWD,Mid-size,Gasoline,2.67,134.84
+2023,Lexus,LX 600,SUV: Standard,Gasoline,3.75,185.17
+2023,Lexus,NX 250 AWD,SUV: Small,Gasoline,2.48,123.03
+2023,Lexus,NX 350 AWD,SUV: Small,Gasoline,2.77,137.32
+2023,Lexus,NX 350 AWD F SPORT,SUV: Small,Gasoline,2.77,137.94
+2023,Lexus,NX 350h AWD,SUV: Small,Gasoline,1.51,86.37
+2023,Lexus,RX 350 AWD,SUV: Small,Gasoline,2.96,143.54
+2023,Lexus,RX 350h AWD,SUV: Small,Gasoline,1.66,93.83
+2023,Lexus,RX 500h AWD,SUV: Small,Gasoline,2.3,123.65
+2023,Lexus,UX 250h AWD,Compact,Gasoline,1.51,86.99
+2023,Lincoln,Aviator AWD,SUV: Standard,Gasoline,3.62,173.98
+2023,Lincoln,Aviator AWD (Without Stop-Start),SUV: Standard,Gasoline,3.88,181.44
+2023,Lincoln,Corsair AWD,SUV: Small,Gasoline,2.96,144.16
+2023,Lincoln,Nautilus AWD,SUV: Small,Gasoline,3.06,154.72
+2023,Lincoln,Navigator 4X4,SUV: Standard,Gasoline,4.02,192.63
+2023,Lincoln,Navigator 4X4 (Without Stop-Start),SUV: Standard,Gasoline,4.15,198.84
+2023,Maserati,Ghibli GT,Mid-size,Gasoline,3.54,168.39
+2023,Maserati,Ghibli Modena,Mid-size,Gasoline,3.54,168.39
+2023,Maserati,Ghibli Modena AWD,Mid-size,Gasoline,3.72,176.47
+2023,Maserati,Ghibli Trofeo,Mid-size,Gasoline,4.6,216.24
+2023,Maserati,Grecale GT,SUV: Small,Gasoline,2.8,135.46
+2023,Maserati,Grecale Modena,SUV: Small,Gasoline,2.8,135.46
+2023,Maserati,Grecale Trofeo,SUV: Small,Gasoline,3.51,166.53
+2023,Maserati,Levante GT,SUV: Standard,Gasoline,3.99,191.38
+2023,Maserati,Levante Modena,SUV: Standard,Gasoline,3.99,191.38
+2023,Maserati,Levante Modena V8,SUV: Standard,Gasoline,4.6,216.86
+2023,Maserati,Levante Trofeo,SUV: Standard,Gasoline,4.6,216.86
+2023,Maserati,Quattroporte GT,Full-size,Gasoline,3.8,174.61
+2023,Maserati,Quattroporte Modena,Full-size,Gasoline,3.8,174.61
+2023,Maserati,Quattroporte Modena AWD,Full-size,Gasoline,3.72,176.47
+2023,Maserati,Quattroporte Trofeo,Full-size,Gasoline,4.6,216.24
+2023,Mazda,CX-30 4WD,SUV: Small,Gasoline,2.48,125.52
+2023,Mazda,CX-30 Turbo 4WD,SUV: Small,Gasoline,2.77,136.7
+2023,Mazda,CX-5 4WD,SUV: Small,Gasoline,2.59,129.87
+2023,Mazda,CX-5 Turbo 4WD,SUV: Small,Gasoline,2.85,142.92
+2023,Mazda,CX-50 4WD,SUV: Small,Gasoline,2.56,129.87
+2023,Mazda,CX-50 Turbo 4WD,SUV: Small,Gasoline,2.75,136.7
+2023,Mazda,CX-9 4WD,SUV: Small,Gasoline,3.06,152.24
+2023,Mazda,Mazda3 4-Door,Compact,Gasoline,2.22,110.6
+2023,Mazda,Mazda3 4-Door (SIL),Compact,Gasoline,2.3,111.85
+2023,Mazda,Mazda3 4-Door 4WD,Compact,Gasoline,2.32,114.95
+2023,Mazda,Mazda3 4-Door Turbo 4WD,Compact,Gasoline,2.67,128.62
+2023,Mazda,Mazda3 5-Door,Mid-size,Gasoline,2.27,112.47
+2023,Mazda,Mazda3 5-Door (SIL),Mid-size,Gasoline,2.3,112.47
+2023,Mazda,Mazda3 5-Door 4WD,Mid-size,Gasoline,2.38,118.06
+2023,Mazda,Mazda3 5-Door Turbo 4WD,Mid-size,Gasoline,2.67,129.87
+2023,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,Gasoline,3.2,155.96
+2023,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,Gasoline,3.01,144.16
+2023,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,Gasoline,3.17,149.75
+2023,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,Gasoline,3.06,149.75
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,Gasoline,2.91,141.05
+2023,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,Gasoline,3.91,183.93
+2023,Mercedes-Benz,AMG G 63 SUV,SUV: Standard,Gasoline,5.15,257.87
+2023,Mercedes-Benz,AMG G 63 4x4 Squared SUV,SUV: Standard,Gasoline,6.21,315.66
+2023,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,Gasoline,3.57,170.26
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV: Standard,Gasoline,3.54,176.47
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,Gasoline,3.46,172.12
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV: Standard,Gasoline,4.31,213.13
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV: Standard,Gasoline,4.36,215.62
+2023,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV: Standard,Gasoline,4.39,219.97
+2023,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,Gasoline,3.25,162.8
+2023,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,Gasoline,4.25,204.43
+2023,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,Gasoline,4.25,204.43
+2023,Mercedes-Benz,C 300 4MATIC Sedan,Compact,Gasoline,2.59,124.9
+2023,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,Gasoline,2.59,124.27
+2023,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,Gasoline,2.91,142.29
+2023,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,Gasoline,2.96,141.67
+2023,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,Gasoline,2.8,136.08
+2023,Mercedes-Benz,G 550 SUV,SUV: Standard,Gasoline,4.73,237.99
+2023,Mercedes-Benz,GLA 250 4MATIC SUV,SUV: Small,Gasoline,2.72,130.49
+2023,Mercedes-Benz,GLB 250 4MATIC SUV,SUV: Small,Gasoline,2.83,137.32
+2023,Mercedes-Benz,GLC 300 4MATIC SUV,SUV: Small,Gasoline,2.75,142.29
+2023,Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,Gasoline,3.22,157.21
+2023,Mercedes-Benz,GLE 350 4MATIC SUV,SUV: Standard,Gasoline,3.2,159.69
+2023,Mercedes-Benz,GLE 450 4MATIC SUV,SUV: Standard,Gasoline,3.04,152.24
+2023,Mercedes-Benz,GLE 450 4MATIC Coupe,SUV: Standard,Gasoline,3.09,153.48
+2023,Mercedes-Benz,GLS 450 4MATIC SUV,SUV: Standard,Gasoline,3.35,167.77
+2023,Mercedes-Benz,GLS 580 4MATIC SUV,SUV: Standard,Gasoline,3.94,192.63
+2023,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV: Standard,Gasoline,4.44,214.99
+2023,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,Gasoline,4.2,189.52
+2023,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,Gasoline,5.42,238.61
+2023,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,Gasoline,3.17,150.37
+2023,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,Gasoline,3.78,177.09
+2023,MINI,Cooper Clubman ALL4,Mid-size,Gasoline,2.54,123.65
+2023,MINI,Cooper Countryman,Mid-size,Gasoline,2.4,120.55
+2023,MINI,Cooper Countryman ALL4,Mid-size,Gasoline,2.67,129.87
+2023,MINI,Cooper S Clubman,Mid-size,Gasoline,2.46,118.68
+2023,MINI,Cooper S Clubman ALL4,Mid-size,Gasoline,2.67,128.0
+2023,MINI,Cooper S Countryman,Mid-size,Gasoline,2.56,123.65
+2023,MINI,Cooper S Countryman ALL4,Mid-size,Gasoline,2.75,131.73
+2023,MINI,John Cooper Works Clubman ALL4,Mid-size,Gasoline,2.67,130.49
+2023,MINI,John Cooper Works Countryman ALL4,Mid-size,Gasoline,2.64,130.49
+2023,Mitsubishi,Eclipse Cross 4WD,SUV: Small,Gasoline,2.54,134.22
+2023,Mitsubishi,Mirage,Compact,Gasoline,1.74,88.86
+2023,Mitsubishi,Outlander 4WD,SUV: Small,Gasoline,2.56,129.25
+2023,Mitsubishi,RVR,SUV: Small,Gasoline,2.56,128.62
+2023,Mitsubishi,RVR 4WD,SUV: Small,Gasoline,2.64,132.35
+2023,Nissan,Altima AWD,Mid-size,Gasoline,2.4,116.2
+2023,Nissan,Altima AWD SR/Platinum,Mid-size,Gasoline,2.46,118.68
+2023,Nissan,Armada 4WD,SUV: Standard,Gasoline,4.62,224.94
+2023,Nissan,Kicks,Mid-size,Gasoline,2.03,105.01
+2023,Nissan,Maxima,Mid-size,Gasoline,3.06,144.78
+2023,Nissan,Pathfinder 4WD,SUV: Small,Gasoline,3.06,152.86
+2023,Nissan,Pathfinder 4WD Rock Creek,SUV: Small,Gasoline,3.14,161.56
+2023,Nissan,Rogue,SUV: Small,Gasoline,2.06,105.63
+2023,Nissan,Rogue AWD,SUV: Small,Gasoline,2.22,111.23
+2023,Nissan,Rogue AWD SL/Platinum,SUV: Small,Gasoline,2.22,112.47
+2023,Nissan,Sentra,Mid-size,Gasoline,2.11,103.77
+2023,Nissan,Sentra SR,Mid-size,Gasoline,2.17,106.25
+2023,Nissan,Versa,Compact,Gasoline,1.95,98.18
+2023,Rolls-Royce,Ghost,Full-size,Gasoline,5.26,241.09
+2023,Rolls-Royce,Ghost Black Badge,Full-size,Gasoline,5.26,241.09
+2023,Rolls-Royce,Ghost Extended,Full-size,Gasoline,5.26,241.09
+2023,Rolls-Royce,Phantom,Full-size,Gasoline,5.34,246.68
+2023,Rolls-Royce,Phantom Extended,Full-size,Gasoline,5.34,246.68
+2023,Subaru,Ascent AWD,SUV: Standard,Gasoline,3.25,159.07
+2023,Subaru,Crosstrek AWD,SUV: Small,Gasoline,2.25,114.33
+2023,Subaru,Forester AWD,SUV: Small,Gasoline,2.38,119.3
+2023,Subaru,Forester Wilderness AWD,SUV: Small,Gasoline,2.51,130.49
+2023,Subaru,Legacy AWD,Full-size,Gasoline,2.67,129.87
+2023,Subaru,Outback AWD,SUV: Small,Gasoline,2.8,137.32
+2023,Subaru,Outback Wilderness AWD,SUV: Small,Gasoline,2.91,146.02
+2023,Subaru,WRX AWD,Mid-size,Gasoline,3.35,162.8
+2023,Toyota,4Runner 4WD,SUV: Standard,Gasoline,3.94,200.7
+2023,Toyota,4Runner 4WD (Part-Time 4WD),SUV: Standard,Gasoline,3.91,198.84
+2023,Toyota,Camry SE,Mid-size,Gasoline,2.25,108.12
+2023,Toyota,Camry XSE V6/TRD,Mid-size,Gasoline,2.85,136.7
+2023,Toyota,Camry AWD SE,Mid-size,Gasoline,2.48,119.3
+2023,Toyota,Camry AWD XSE,Mid-size,Gasoline,2.51,121.17
+2023,Toyota,Camry Hybrid LE,Mid-size,Gasoline,1.29,70.21
+2023,Toyota,Camry Hybrid SE/XLE/XSE,Mid-size,Gasoline,1.4,75.19
+2023,Toyota,Corolla (1-mode),Compact,Gasoline,1.95,98.18
+2023,Toyota,Corolla (3-mode),Compact,Gasoline,2.01,99.42
+2023,Toyota,Corolla Hatchback,Compact,Gasoline,1.98,98.8
+2023,Toyota,Corolla Hybrid,Compact,Gasoline,1.16,68.35
+2023,Toyota,Corolla Hybrid AWD (2-mode),Compact,Gasoline,1.22,71.46
+2023,Toyota,Corolla Hybrid AWD (3-mode),Compact,Gasoline,1.32,77.05
+2023,Toyota,Corolla Cross,SUV: Small,Gasoline,2.01,106.25
+2023,Toyota,Corolla Cross AWD,SUV: Small,Gasoline,2.14,113.09
+2023,Toyota,Corolla Cross Hybrid AWD,SUV: Small,Gasoline,1.37,80.78
+2023,Toyota,Crown AWD,Mid-size,Gasoline,2.14,113.09
+2023,Toyota,Highlander AWD,SUV: Small,Gasoline,2.91,143.54
+2023,Toyota,Highlander Hybrid AWD,SUV: Standard,Gasoline,1.77,98.18
+2023,Toyota,Highlander Hybrid AWD Limited/Platinum,SUV: Standard,Gasoline,1.74,96.93
+2023,Toyota,Prius AWD,Mid-size,Gasoline,1.27,68.97
+2023,Toyota,RAV4,SUV: Small,Gasoline,2.32,114.33
+2023,Toyota,RAV4 AWD,SUV: Small,Gasoline,2.51,123.65
+2023,Toyota,RAV4 AWD (Stop/Start),SUV: Small,Gasoline,2.32,116.2
+2023,Toyota,RAV4 AWD LE,SUV: Small,Gasoline,2.3,114.33
+2023,Toyota,RAV4 Hybrid AWD,SUV: Small,Gasoline,1.53,87.61
+2023,Toyota,Sequoia 4WD,SUV: Standard,Gasoline,3.33,169.63
+2023,Toyota,Venza AWD,SUV: Small,Gasoline,1.56,88.23
+2023,Volkswagen,Atlas,SUV: Small,Gasoline,2.91,149.13
+2023,Volkswagen,Atlas 4MOTION,SUV: Small,Gasoline,3.12,158.45
+2023,Volkswagen,Atlas Cross Sport,SUV: Small,Gasoline,2.91,150.99
+2023,Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,Gasoline,3.12,159.07
+2023,Volkswagen,Golf GTI,Compact,Gasoline,2.56,123.03
+2023,Volkswagen,Golf R,Compact,Gasoline,2.72,132.35
+2023,Volkswagen,Jetta,Compact,Gasoline,2.03,98.8
+2023,Volkswagen,Jetta Comfortline/Highline,Compact,Gasoline,2.14,103.77
+2023,Volkswagen,Jetta GLI,Compact,Gasoline,2.38,114.95
+2023,Volkswagen,Taos,SUV: Small,Gasoline,2.22,110.6
+2023,Volkswagen,Taos 4MOTION,SUV: Small,Gasoline,2.51,124.27
+2023,Volkswagen,Tiguan 4MOTION,SUV: Small,Gasoline,2.8,137.94
+2023,Volkswagen,Tiguan R-Line 4MOTION,SUV: Small,Gasoline,2.91,142.29
+2023,Volvo,S60 B5,Compact,Gasoline,2.38,115.58
+2023,Volvo,S60 B5 AWD,Compact,Gasoline,2.48,119.92
+2023,Volvo,S90 B6 AWD,Mid-size,Gasoline,2.72,131.11
+2023,Volvo,XC40 B4 AWD,SUV: Small,Gasoline,2.64,129.25
+2023,Volvo,XC40 B5 AWD,SUV: Small,Gasoline,2.69,133.59
+2023,Volvo,XC60 B5 AWD,SUV: Small,Gasoline,2.72,135.46
+2023,Volvo,XC60 B6 AWD,SUV: Small,Gasoline,2.93,144.78
+2023,Volvo,XC90 B5 AWD,SUV: Standard,Gasoline,2.77,138.57
+2023,Volvo,XC90 B6 AWD,SUV: Standard,Gasoline,3.14,154.72
