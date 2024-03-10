@@ -472,11 +472,11 @@ Year,,,,(kW),,Type,City (kWh/100 km),Hwy (kWh/100 km),Comb (kWh/100 km),City (Le
 2023,Volvo,XC40 Recharge Twin,SUV: Small,300,A1,B,22.8,26.6,24.5,2.6,3.0,2.8,359,0,10,10,8
 ,,,,,,,,,,,,,,,,,
 "Note: Vehicle manufacturers now use the 5-cycle testing procedure, introduced for model year 2015, to determine the fuel consumption ratings of new light-duty vehicles. 5-cycle testing produces fuel consumption ratings",,,,,,,,,,,,,,,,,
-"that are more representative of a vehicle’s on-road fuel consumption. To help you compare vehicles from different model years, the ratings for 1995 to 2014 vehicles have been adjusted to reflect the improved testing.",,,,,,,,,,,,,,,,,
+"that are more representative of a vehicleÂ’s on-road fuel consumption. To help you compare vehicles from different model years, the ratings for 1995 to 2014 vehicles have been adjusted to reflect the improved testing.",,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 Understanding the table,,,,,,,,,,,,,,,,,
 Transmission,A = automatic,,,,,,,,,,,,,,,,
-,1 – 10 = number of gears,,,,,,,,,,,,,,,,
+,1 Â– 10 = number of gears,,,,,,,,,,,,,,,,
 Fuel type,B = electricity,,,,,,,,,,,,,,,,
 Consumption,The combined fuel consumption rating reflects 55% city and 45% highway driving. ,,,,,,,,,,,,,,,,
 ,Le is gasoline litre equivalent. One litre of gasoline contains the energy equivalent to 8.9 kWh of electricity.,,,,,,,,,,,,,,,,
