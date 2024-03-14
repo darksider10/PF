@@ -9,7 +9,7 @@ import sklearn
 # Función para cargar el modelo desde GitHub
 def load_model():
     # URL raw del archivo .pkl en GitHub
-    model_url = 'https://github.com/AgneseNahuel/PF/raw/main/ML2/ModeloEntrenado.pkl'
+    model_url = 'https://github.com/darksider10/PF/raw/main/ML/ModeloEntrenado.pkl'
     
     # Descargar el archivo .pkl desde la URL
     response = requests.get(model_url)
