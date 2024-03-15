@@ -68,7 +68,7 @@ Este proyecto es realizado en un plazo de 4 semanas desde el 26 de febrero de 20
 
 ## ETL
 
-![Portada](Imagenes/DALL·E_NYC.webp)
+![Portada](Imagenes/Diagrama_ER_de_base_de_datos.webp)
 
 El proceso ETL de este proyecto implica la extracción de datos relevantes de diversas fuentes, la transformación de estos datos para garantizar la consistencia y la calidad necesarias para el análisis, y la carga de los datos transformados en una base adecuada para su posterior análisis y modelado. Las transformaciones clave incluyen:
 
