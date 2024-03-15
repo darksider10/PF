@@ -1,4 +1,4 @@
-![Portada](Imagenes/DALL·E 2024-03-14 22.33.19.webp)
+![Portada](Imagenes/Portada.webp)
 
 
 # PROYECTO FINAL
