@@ -1,4 +1,4 @@
-![Portada](Imagenes/DALL·E_NYC.webp)
+![Portada](Imagenes/DALL·E 2024-03-14 22.33.19.webp)
 
 
 # PROYECTO FINAL
@@ -123,6 +123,8 @@ La regresión ElasticNet es una técnica de regresión lineal que combina las pe
 En este proyecto, la regresión ElasticNet se aplicó para predecir el costo total de los viajes en taxi en función de la hora del día, la distancia del viaje y la zona de recogida. Se ajustaron los parámetros alpha y l1_ratio para controlar el equilibrio entre las penalizaciones Lasso y Ridge. El valor de alpha determina la intensidad de la penalización general, mientras que l1_ratio controla la proporción entre las penalizaciones Lasso y Ridge. Al utilizar ElasticNet, se buscó un modelo que no solo sea predictivo, sino también interpretable, al identificar las variables más relevantes para el costo del viaje.
 
 ## Librerías Utilizadas
+
+![Modelo Regresión](Imagenes/collage_for_github_readme_black.png)
 
 - **Pandas:** Utilizada para la manipulación y análisis de datos.
 - **NumPy:** Utilizada para cálculos numéricos y operaciones con arrays.
