@@ -1,0 +1,494 @@
+Categoría,Modelo,AñoModelo,Fabricante,Combustible,TipoMotor,TamañoMotor
+Sedan/Wagon,NSX,2022.0,Acura,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,A3 ,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A3 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A4 allroad quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A4 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A4 S line quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Cabriolet quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Coupe quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Sportback quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A6 Allroad quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A7 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A7 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A8L quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,e-tron GT,2022.0,Audi,Electric,Electric Motor,175 kW
+SUV,e-tron quattro,2022.0,Audi,Electric,Electric Motor,141 kW
+SUV,"e-tron S (20"" wheels)",2022.0,Audi,Electric,Electric Motor,138 kW
+SUV,"e-tron S (21"" or 22"" wheels)",2022.0,Audi,Electric,Electric Motor,138 kW
+SUV,e-tron Sportback quattro,2022.0,Audi,Electric,Electric Motor,141 kW
+SUV,"e-tron S Sportback (20"" wheels)",2022.0,Audi,Electric,Electric Motor,138 kW
+SUV,"e-tron S Sportback (21"" or 22"" wheels)",2022.0,Audi,Electric,Electric Motor,157 kW
+SUV,Q4 e-tron quattro,2022.0,Audi,Electric,Electric Motor,80 kW
+SUV,Q4 e-tron Sportback quattro,2022.0,Audi,Electric,Electric Motor,80 kW
+SUV,Q5 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+SUV,Q5 S line quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+SUV,Q5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Q5 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,Q7 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+SUV,Q8 quattro,2022.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,RS 6 Avant,2022.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,RS7,2022.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+SUV,RS e-tron GT,2022.0,Audi,Electric,Electric Motor,335 kW
+Sedan/Wagon,RS Q8,2022.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S6,2022.0,Audi,Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,S7,2022.0,Audi,Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,S8,2022.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Flying Spur Hybrid,2022.0,Bentley Motors,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,330e Sedan,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,330e xDrive,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,530e Sedan,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,530e xDrive Sedan,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,540i Sedan,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,540i xDrive Sedan,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,745e xDrive,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022.0,BMW,Electric,Electric Motor,250 kW
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,Electric Motor,250 kW
+Sedan/Wagon,"i4 M50 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,Electric Motor,190 and 230 kW
+Sedan/Wagon,"i4 M50 Gran Coupe (20"" Wheels) ",2022.0,BMW,Electric,Electric Motor,190 and 230 kW
+SUV,"iX xDrive50 (20"" Wheels) ",2022.0,BMW,Electric,Electric Motor,190 and 230 kW
+SUV,"iX xDrive50 (21"" Wheels) ",2022.0,BMW,Electric,Electric Motor,190 and 230 kW
+SUV,"iX xDrive50 (22"" Wheels) ",2022.0,BMW,Electric,Electric Motor,190 and 230 kW
+Sedan/Wagon,M340i Sedan,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M340i xDrive Sedan,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i Convertible,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i Coupe,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i xDrive Convertible,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i xDrive Coupe,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i xDrive Gran Coupe,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X3 M40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X4 M40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X5 sDrive40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X5 xDrive40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X5 xDrive45e,2022.0,BMW,Plug-in Hybrid Electric,Spark Ignition,3.0L
+SUV,X6 xDrive40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X7 xDrive40i,2022.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,Escalade 2WD,2022.0,Cadillac,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Escalade 4WD,2022.0,Cadillac,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,Bolt EUV,2022.0,Chevrolet,Electric,Electric Motor,150 kW
+Sedan/Wagon,Bolt EV,2022.0,Chevrolet,Electric,Electric Motor,150 kW
+SUV,Suburban 2WD,2022.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Suburban 4WD,2022.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Tahoe 2WD,2022.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Tahoe 4WD,2022.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,SF90 Spyder,2022.0,Ferrari,Plug-in Hybrid Electric,Spark Ignition,3.9L
+Sedan/Wagon,SF90 Stradale ,2022.0,Ferrari,Plug-in Hybrid Electric,Spark Ignition,3.9L
+Sedan/Wagon,Escape AWD HEV,2022.0,Ford,Hybrid Electric,Spark Ignition,2.5L I4
+Sedan/Wagon,Escape FWD HEV,2022.0,Ford,Hybrid Electric,Spark Ignition,2.5L I4
+SUV,Escape FWD PHEV,2022.0,Ford,Plug-in Hybrid Electric,Spark Ignition,2.5L
+SUV,Explorer AWD FFV,2022.0,Ford,Ethanol (E85),Spark Ignition,3.3L
+SUV,Explorer HEV AWD,2022.0,Ford,Hybrid Electric,Spark Ignition,3.3L V6
+SUV,Explorer HEV RWD,2022.0,Ford,Hybrid Electric,Spark Ignition,3.3L V6
+SUV,Explorer Platinum HEV ,2022.0,Ford,Hybrid Electric,Spark Ignition,3.3L V6
+SUV,Mustang Mach-E AWD,2022.0,Ford,Electric,Electric Motor,198 kW
+SUV,Mustang Mach-E AWD California Route 1,2022.0,Ford,Electric,Electric Motor,258 kW
+SUV,Mustang Mach-E AWD Extended,2022.0,Ford,Electric,Electric Motor,258 kW
+SUV,Mustang Mach-E GT AWD,2022.0,Ford,Electric,Electric Motor,179 kW
+SUV,Mustang Mach-E GT Performance,2022.0,Ford,Electric,Electric Motor,179 kW
+SUV,Mustang Mach-E RWD,2022.0,Ford,Electric,Electric Motor,198 kW
+SUV,Mustang Mach-E RWD California Route 1,2022.0,Ford,Electric,Electric Motor,216 kW
+SUV,Mustang Mach-E RWD Extended,2022.0,Ford,Electric,Electric Motor,216 kW
+SUV,Yukon 2WD,2022.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon 4WD,2022.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon XL 2WD,2022.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon XL 4WD,2022.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,Accord,2022.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Accord Sport/Touring,2022.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+SUV,CR-V AWD,2022.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Insight,2022.0,Honda,Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Insight Touring,2022.0,Honda,Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Elantra Hybrid,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Elantra Hybrid Blue,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Ioniq,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+SUV,Ioniq 5 AWD (Long Range),2022.0,Hyundai,Electric,Electric Motor,74 kW
+SUV,Ioniq 5 RWD,2022.0,Hyundai,Electric,Electric Motor,125 kW
+SUV,Ioniq 5 RWD (Long Range),2022.0,Hyundai,Electric,Electric Motor,168 kW
+Sedan/Wagon,Ioniq Blue,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Ioniq Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,Spark Ignition,1.6L
+SUV,Kona Electric,2022.0,Hyundai,Electric,Electric Motor,150 kW
+SUV,Nexo,2022.0,Hyundai,Hydrogen Fuel Cell,Fuel Cell,120 kW
+SUV,Nexo Blue,2022.0,Hyundai,Hydrogen Fuel Cell,Fuel Cell,120 kW
+Sedan/Wagon,Santa Fe Hybrid,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Santa Fe Hybrid Blue,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Santa Fe Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Sonata Hybrid,2022.0,Hyundai,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Sonata Hybrid Blue,2022.0,Hyundai,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Tucson Hybrid,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Tucson Hybrid Blue,2022.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+SUV,Tucson Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,Spark Ignition,1.6L
+SUV,E-PACE MHEV,2022.0,Jaguar,Hybrid Electric,Spark Ignition,2.0L
+SUV,F-PACE P340 MHEV,2022.0,Jaguar,Hybrid Electric,Spark Ignition,3.0L
+SUV,F-PACE P400 MHEV,2022.0,Jaguar,Hybrid Electric,Spark Ignition,3.0L
+SUV,Grand Cherokee 4xe,2022.0,Jeep,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,Wagoneer 4x2,2022.0,Jeep,Hybrid Electric,Spark Ignition,5.7L
+SUV,Wagoneer 4x4,2022.0,Jeep,Hybrid Electric,Spark Ignition,5.7L
+SUV,Wrangler 2dr 4x4,2022.0,Jeep,Hybrid Electric,Spark Ignition,3.6L
+SUV,Wrangler 4dr 4x4,2022.0,Jeep,Hybrid Electric,Spark Ignition,3.6L
+SUV,Wrangler 4dr 4xe,2022.0,Jeep,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,EV6 AWD (Long Range) ,2022.0,Kia,Electric,Electric Motor,74 kW
+Sedan/Wagon,EV6 RWD,2022.0,Kia,Electric,Electric Motor,125 kW
+Sedan/Wagon,EV6 RWD (Long Range) ,2022.0,Kia,Electric,Electric Motor,168 kW
+Sedan/Wagon,Niro,2022.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Electric,2022.0,Kia,Electric,Electric Motor,150 kW
+Sedan/Wagon,Niro FE,2022.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Touring,2022.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+SUV,Sorento Hybrid AWD,2022.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+SUV,Sorento Hybrid FWD,2022.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+SUV,Sorento Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,Spark Ignition,1.6L
+SUV,Defender 110 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Defender 90 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Discovery MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,New Range Rover P360 LWB MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,New Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,New Range Rover P400 LWB MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,New Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover Evoque MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,2.0L
+SUV,Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover Sport P360 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover Sport P400 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover Sport PHEV,2022.0,Land Rover,Plug-in Hybrid Electric,Compression Ignition,2.0L
+SUV,Range Rover Velar P340 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+SUV,Range Rover Velar P400 MHEV,2022.0,Land Rover,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,ES 300h,2022.0,Lexus,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,LC 500h,2022.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,LS 500h AWD,2022.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+SUV,NX 350h AWD,2022.0,Lexus,Hybrid Electric,Spark Ignition,2.5L
+SUV,NX 450+ AWD,2022.0,Lexus,Plug-in Hybrid Electric,Spark Ignition,2.5L
+SUV,RX 450h AWD,2022.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+SUV,RX 450h L AWD,2022.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,UX 250h,2022.0,Lexus,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,UX 250h AWD,2022.0,Lexus,Hybrid Electric,Spark Ignition,2.0L
+SUV,Aviator AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,Spark Ignition,3.0L
+SUV,Corsair AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,370 kW
+Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,370 kW
+Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,198 kW
+Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,198 kW
+Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,178 kW
+Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,Electric Motor,178 kW
+Sedan/Wagon,MX-30,2022.0,Mazda,Electric,Electric Motor,81 kW
+Sedan/Wagon,AMG E53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 63 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,AMG GLE 63 S 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,AMG GLE 63 S 4MATIC+ (coupe),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,AMG GT 43 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG GT 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,C 300,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,C 300 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,CLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,EQS450+,2022.0,Mercedes-Benz,Electric,Electric Motor,245 kW
+Sedan/Wagon,EQS 580 4MATIC,2022.0,Mercedes-Benz,Electric,Electric Motor,135 and 255 kW
+SUV,GLE 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,GLE 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,GLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,GLS 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,GLS 600 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S 500 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,S 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S 580 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Cooper SE Countryman ALL4,2022.0,Mini,Plug-in Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Cooper SE Hardtop 2 door,2022.0,Mini,Electric,Electric Motor,135 kW
+SUV,Outlander PHEV,2022.0,Mitsubishi,Plug-in Hybrid Electric,Spark Ignition,2.4L
+Sedan/Wagon,Leaf (40 kWh battery pack),2022.0,Nissan,Electric,Electric Motor,110 kW
+Sedan/Wagon,Leaf (62 kWh battery pack),2022.0,Nissan,Electric,Electric Motor,160 kW
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2022.0,Nissan,Electric,Electric Motor,160 kW
+Sedan/Wagon,Polestar 2 (Dual Motor),2022.0,Polestar Automotive USA,Electric,Electric Motor,150 kW
+Sedan/Wagon,Polestar 2 (Single Motor),2022.0,Polestar Automotive USA,Electric,Electric Motor,170 kW
+SUV,Cayenne/Coupe/Platinum e-Hybrid,2022.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,3.0L 
+SUV,Cayenne Turbo S/Coupe e-Hybrid ,2022.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive/ST,2022.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Taycan 4 Cross Turismo,2022.0,Porsche,Electric,Electric Motor,175 and 320 kW
+Sedan/Wagon,Taycan 4S Cross Turismo,2022.0,Porsche,Electric,Electric Motor,175 and 320 kW
+Sedan/Wagon,Taycan 4S Perf Battery,2022.0,Porsche,Electric,Electric Motor,150 and 270 kW
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2022.0,Porsche,Electric,Electric Motor,175 and 320 kW
+Sedan/Wagon,Taycan Perf Battery,2022.0,Porsche,Electric,Electric Motor,240 kW
+Sedan/Wagon,Taycan Perf Battery Plus,2022.0,Porsche,Electric,Electric Motor,280 kW
+Sedan/Wagon,Taycan Turbo,2022.0,Porsche,Electric,Electric Motor,170 and 335 kW
+Sedan/Wagon,Taycan Turbo Cross Turismo,2022.0,Porsche,Electric,Electric Motor,175 and 355 kW
+Sedan/Wagon,Taycan Turbo S,2022.0,Porsche,Electric,Electric Motor,190 and 335 kW
+Sedan/Wagon,Taycan Turbo S Cross Turismo,2022.0,Porsche,Electric,Electric Motor,175 and 355 kW
+SUV,R1S,2022.0,Rivian ,Electric,Electric Motor,"162, 162, 163, 163 kW"
+Sedan/Wagon,Model 3 (Long Range) AWD,2022.0,Tesla,Electric,Electric Motor,98 kW
+Sedan/Wagon,Model 3 Performance AWD,2022.0,Tesla,Electric,Electric Motor,131 kW
+Sedan/Wagon,Model 3 RWD,2022.0,Tesla,Electric,Electric Motor,192 kW
+Sedan/Wagon,Model S ,2022.0,Tesla,Electric,Electric Motor,247 kW
+Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022.0,Tesla,Electric,Electric Motor,250 kW
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022.0,Tesla,Electric,Electric Motor,250 kW
+SUV,Model X AWD,2022.0,Tesla,Electric,Electric Motor,243 and 248 kW
+SUV,"Model X Plaid (20"" Wheels)",2022.0,Tesla,Electric,Electric Motor,230 kW
+SUV,"Model X Plaid (22"" Wheels)",2022.0,Tesla,Electric,Electric Motor,230 kW
+SUV,Model Y AWD,2022.0,Tesla,Electric,Electric Motor,91 and 200 kW
+SUV,Model Y (Long Range) AWD,2022.0,Tesla,Electric,Electric Motor,91 and 200 kW
+SUV,Model Y Performance AWD,2022.0,Tesla,Electric,Electric Motor,133 and 179 kW
+SUV,Model Y RWD,2022.0,Tesla,Electric,Electric Motor,209 kW
+Sedan/Wagon,Avalon Hybrid ,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Avalon Hybrid XLE,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Camry Hybrid LE,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Corolla Hybrid,2022.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+SUV,Highlander Hybrid,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,Highlander Hybrid AWD,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,Highlander Hybrid AWD LTD/PLAT,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Mirai LE,2022.0,Toyota,Hydrogen Fuel Cell,Fuel Cell,134 kW
+Sedan/Wagon,Mirai Limited,2022.0,Toyota,Hydrogen Fuel Cell,Fuel Cell,134 kW
+Sedan/Wagon,Mirai XLE,2022.0,Toyota,Hydrogen Fuel Cell,Fuel Cell,134 kW
+Sedan/Wagon,Prius,2022.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+Sedan/Wagon,Prius AWD,2022.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+Sedan/Wagon,Prius Eco,2022.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+Sedan/Wagon,Prius Prime,2022.0,Toyota,Plug-in Hybrid Electric,Spark Ignition,1.8L
+SUV,RAV4 Hybrid AWD,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,RAV4 Prime AWD,2022.0,Toyota,Plug-in Hybrid Electric,Spark Ignition,2.5L
+SUV,Venza AWD,2022.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,ID.4 AWD Pro,2022.0,Volkswagen,Electric,Electric Motor,80 and 150 kW
+SUV,ID.4 AWD Pro S,2022.0,Volkswagen,Electric,Electric Motor,80 and 150 kW
+SUV,ID.4 Pro,2022.0,Volkswagen,Electric,Electric Motor,150 kW
+SUV,ID.4 Pro S,2022.0,Volkswagen,Electric,Electric Motor,150 kW
+SUV,C40 Recharge Twin,2022.0,Volvo,Electric,Electric Motor,150 kW
+Sedan/Wagon,S60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,S60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,S90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,S90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,V60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,V60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC40 Recharge Twin,2022.0,Volvo,Electric,Electric Motor,150 kW
+SUV,XC60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,NSX,2021.0,Acura,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,A4 allroad quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A4 quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A4 S line quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Cabriolet quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Sportback quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A5 Sportback S line quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A6 Allroad,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A7 quattro,2021.0,Audi,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,A7 quattro,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,A8L,2021.0,Audi,Plug-in Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+SUV,e-tron,2021.0,Audi,Electric,Electric Motor,141 kW
+SUV,e-tron Sportback,2021.0,Audi,Electric,Electric Motor,141 kW
+SUV,Q5,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+SUV,Q5,2021.0,Audi,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,Q5 Sportback,2021.0,Audi,Hybrid Electric,Spark Ignition,2.0L
+SUV,Q7,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+SUV,Q8,2021.0,Audi,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,RS 6 Avant,2021.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,RS7,2021.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,RS Q8,2021.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S6,2021.0,Audi,Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,S7,2021.0,Audi,Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,S8,2021.0,Audi,Hybrid Electric,Spark Ignition,4.0L
+SUV,Bentayga,2021.0,Bentley Motors,Plug-in Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,330e,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,330e xDrive,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,530e,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,530e xDrive,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,540i,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,540i xDrive,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,745e xDrive,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,i3,2021.0,BMW,Electric,Electric Motor,125 kW
+Sedan/Wagon,i3s,2021.0,BMW,Electric,Electric Motor,135 kW
+Sedan/Wagon,i3s with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,135 kW
+Sedan/Wagon,i3 with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,125 kW
+SUV,M340i,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,M340i xDrive,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i Convertible,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,M440i xDrive Coupe,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X3 xDrive30e,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,X5 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X5 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X5 xDrive45e,2021.0,BMW,Plug-in Hybrid Electric,Spark Ignition,3.0L
+SUV,X6 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X6 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,X7 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,Spark Ignition,3.0L
+SUV,Escalade 2WD,2021.0,Cadillac,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Escalade 4WD,2021.0,Cadillac,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,Bolt EV,2021.0,Chevrolet,Electric,Electric Motor,150 kW
+SUV,Suburban 2WD,2021.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Suburban 4WD,2021.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Tahoe 2WD,2021.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Tahoe 4WD,2021.0,Chevrolet,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,SF90 Stradale Coupe,2021.0,Ferrari,Plug-in Hybrid Electric,Spark Ignition,3.9L
+Sedan/Wagon,Escape AWD HEV,2021.0,Ford,Hybrid Electric,Spark Ignition,2.5L I4
+Sedan/Wagon,Escape FWD HEV,2021.0,Ford,Hybrid Electric,Spark Ignition,2.5L I4
+SUV,Escape FWD PHEV,2021.0,Ford,Plug-in Hybrid Electric,Spark Ignition,2.5L
+SUV,Explorer AWD FFV,2021.0,Ford,Ethanol (E85),Spark Ignition,3.3L
+SUV,Explorer HEV AWD,2021.0,Ford,Hybrid Electric,Spark Ignition,3.3L V6
+SUV,Explorer HEV RWD,2021.0,Ford,Hybrid Electric,Spark Ignition,3.3L V6
+Sedan/Wagon,Mustang Mach-E AWD,2021.0,Ford,Electric,Electric Motor,198 kW
+Sedan/Wagon,Mustang Mach-E AWD Extended,2021.0,Ford,Electric,Electric Motor,209 kW
+Sedan/Wagon,Mustang Mach-E GT AWD,2021.0,Ford,Electric,Electric Motor,179 kW
+Sedan/Wagon,Mustang Mach-E RWD,2021.0,Ford,Electric,Electric Motor,198 kW
+Sedan/Wagon,Mustang Mach-E RWD California Route 1,2021.0,Ford,Electric,Electric Motor,216 kW
+Sedan/Wagon,Mustang Mach-E RWD Extended,2021.0,Ford,Electric,Electric Motor,216 kW
+SUV,Yukon 2WD,2021.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon 4WD,2021.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon XL 2WD,2021.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Yukon XL 4WD,2021.0,GMC,Biodiesel (B20),Compression Ignition,3.0L
+Sedan/Wagon,Accord,2021.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Accord Sport/Touring,2021.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Clarity,2021.0,Honda,Hydrogen Fuel Cell,Spark Ignition,130 kW
+Sedan/Wagon,Clarity PHEV,2021.0,Honda,Plug-in Hybrid Electric,Spark Ignition,1.5L
+SUV,CR-V AWD,2021.0,Honda,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Insight,2021.0,Honda,Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Insight Touring,2021.0,Honda,Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Elantra Hybrid,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Elantra Hybrid Blue,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Ioniq,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Ioniq Blue,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Ioniq Electric,2021.0,Hyundai,Electric,Electric Motor,100 kW
+Sedan/Wagon,Ioniq Plug-in Hybrid,2021.0,Hyundai,Plug-in Hybrid Electric,Spark Ignition,1.6L
+SUV,Kona Electric,2021.0,Hyundai,Electric,Electric Motor,150 kW
+SUV,Nexo,2021.0,Hyundai,Hydrogen Fuel Cell,Fuel Cell,120 kW
+SUV,Nexo Blue,2021.0,Hyundai,Hydrogen Fuel Cell,Fuel Cell,120 kW
+Sedan/Wagon,Santa Fe Hybrid,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Santa Fe Hybrid Blue,2021.0,Hyundai,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Sonata Hybrid,2021.0,Hyundai,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,Sonata Hybrid Blue,2021.0,Hyundai,Hybrid Electric,Spark Ignition,2.0L
+SUV,E-PACE MHEV,2021.0,Jaguar,Hybrid Electric,Spark Ignition,2.0L
+SUV,F-PACE P340 MHEV,2021.0,Jaguar,Hybrid Electric,Spark Ignition,3.0L
+SUV,F-PACE P400 MHEV,2021.0,Jaguar,Hybrid Electric,Spark Ignition,3.0L
+SUV,Wrangler 2dr 4x4,2021.0,Jeep,Hybrid Electric,Spark Ignition,3.6L
+SUV,Wrangler 4dr 4x4,2021.0,Jeep,Hybrid Electric,Spark Ignition,3.6L
+SUV,Wrangler 4dr 4xe,2021.0,Jeep,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,K27,2021.0,Kandi,Electric,Electric Motor,20 kW
+Sedan/Wagon,"GS-6 (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,"Revero GT (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Niro,2021.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Electric,2021.0,Kia,Electric,Electric Motor,150 kW
+Sedan/Wagon,Niro FE,2021.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Plug-in Hybrid,2021.0,Kia,Plug-in Hybrid Electric,Spark Ignition,1.6L
+Sedan/Wagon,Niro Touring,2021.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+SUV,Sorento Hybrid,2021.0,Kia,Hybrid Electric,Spark Ignition,1.6L
+SUV,Defender 110 MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Defender 90 MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Discovery MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Range Rover ,2021.0,Land Rover,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Range Rover MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Range Rover PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,Compression Ignition,2.0L
+SUV,Range Rover Sport,2021.0,Land Rover,Biodiesel (B20),Compression Ignition,3.0L
+SUV,Range Rover Sport MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Range Rover Sport PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,Compression Ignition,2.0L
+SUV,Range Rover Velar P340 MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+SUV,Range Rover Velar P400 MHEV,2021.0,Land Rover,Hybrid Electric,Compression Ignition,3.0L
+Sedan/Wagon,ES 300h,2021.0,Lexus,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,LC 500h,2021.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,LS 500h,2021.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,LS 500h AWD,2021.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+SUV,NX 300h AWD,2021.0,Lexus,Hybrid Electric,Spark Ignition,2.5L
+SUV,RX 450h AWD,2021.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+SUV,RX 450h L AWD,2021.0,Lexus,Hybrid Electric,Spark Ignition,3.5L
+Sedan/Wagon,UX 250h,2021.0,Lexus,Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,UX 250h AWD,2021.0,Lexus,Hybrid Electric,Spark Ignition,2.0L
+SUV,Aviator AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,Compression Ignition,3.0L
+SUV,Corsair AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,Compression Ignition,2.5L
+Sedan/Wagon,AMG CLS 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG E53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 53 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,AMG GLE 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,AMG GLE 63 S 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,AMG GLS 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,AMG GT 43 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,AMG GT 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,CLS 450,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,CLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 4MATIC (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,E 450 (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,GLE 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,GLE 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,GLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+SUV,GLS 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+SUV,GLS 600 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S 500 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,3.0L
+Sedan/Wagon,S 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,S 580 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Cooper SE Countryman ALL4,2021.0,Mini,Plug-in Hybrid Electric,Spark Ignition,1.5L
+Sedan/Wagon,Cooper SE Hardtop 2 door,2021.0,Mini,Electric,Electric Motor,135 kW
+SUV,Outlander PHEV,2021.0,Mitsubishi,Plug-in Hybrid Electric,Spark Ignition,2.4L
+Sedan/Wagon,Leaf (40 kWh battery pack),2021.0,Nissan,Electric,Electric Motor,110 kW
+Sedan/Wagon,Leaf (62 kWh battery pack),2021.0,Nissan,Electric,Electric Motor,160 kW
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2021.0,Nissan,Electric,Electric Motor,160 kW
+Sedan/Wagon,Polestar I,2021.0,Polestar Automotive USA,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,Cayenne e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,3.0L 
+SUV,Cayenne e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,3.0L 
+SUV,Cayenne Turbo S e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+SUV,Cayenne Turbo S e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Panamera 4 E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4 E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera 4S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,2.9L
+Sedan/Wagon,Panamera Turbo S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Panamera Turbo S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,Spark Ignition,4.0L
+Sedan/Wagon,Taycan 4S Perf Battery,2021.0,Porsche,Electric,Electric Motor,194 and 280 kW
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2021.0,Porsche,Electric,Electric Motor,210 and 250 kW
+Sedan/Wagon,Taycan Perf Battery,2021.0,Porsche,Electric,Electric Motor,240 kW
+Sedan/Wagon,Taycan Perf Battery Plus,2021.0,Porsche,Electric,Electric Motor,280 kW
+Sedan/Wagon,Model 3 Long Range AWD,2021.0,Tesla,Electric,Electric Motor,131 and 190 kW
+Sedan/Wagon,Model 3 Performance AWD,2021.0,Tesla,Electric,Electric Motor,131 and 190 kW
+Sedan/Wagon,Model 3 Standard Range Plus RWD,2021.0,Tesla,Electric,Electric Motor,198 kW
+Sedan/Wagon,Model S Long Range,2021.0,Tesla,Electric,Electric Motor,179 kW
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2021.0,Tesla,Electric,Electric Motor,149 kW
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021.0,Tesla,Electric,Electric Motor,250 kW
+SUV,Model X Long Range Plus,2021.0,Tesla,Electric,Electric Motor,180 and 189 kW
+SUV,"Model X Performance (20"" Wheels)",2021.0,Tesla,Electric,Electric Motor,151 and 273 kW
+SUV,Model Y Long Range AWD,2021.0,Tesla,Electric,Electric Motor,69 and 201 kW
+SUV,Model Y Performance AWD,2021.0,Tesla,Electric,Electric Motor,133 and 179 kW
+SUV,Model Y Standard Range RWD,2021.0,Tesla,Electric,Electric Motor,209 kW
+Sedan/Wagon,Avalon Hybrid,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Avalon Hybrid XLE,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Camry Hybrid LE,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Corolla Hybrid,2021.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+SUV,Highlander Hybrid,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,Highlander Hybrid AWD,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,Highlander Hybrid AWD LTD/PLAT,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+Sedan/Wagon,Mirai Limited,2021.0,Toyota,Hydrogen Fuel Cell,Fuel Cell,134 kW
+Sedan/Wagon,Mirai XLE,2021.0,Toyota,Hydrogen Fuel Cell,Fuel Cell,134 kW
+Sedan/Wagon,Prius,2021.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+Sedan/Wagon,Prius AWD,2021.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+Sedan/Wagon,Prius Eco,2021.0,Toyota,Hybrid Electric,Spark Ignition,1.8L
+SUV,RAV4 Hybrid AWD,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,Venza AWD,2021.0,Toyota,Hybrid Electric,Spark Ignition,2.5L
+SUV,ID.4 1st,2021.0,Volkswagen,Electric,Electric Motor,150 kW
+SUV,ID.4 AWD Pro,2021.0,Volkswagen,Electric,Electric Motor,80 and 150 kW
+SUV,ID.4 Pro,2021.0,Volkswagen,Electric,Electric Motor,150 kW
+SUV,ID.4 Pro S,2021.0,Volkswagen,Electric,Electric Motor,150 kW
+SUV,ID.4 Pro S AWD ,2021.0,Volkswagen,Electric,Electric Motor,80 and 150 kW
+Sedan/Wagon,S60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+Sedan/Wagon,S90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,V60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
+SUV,XC90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,Spark Ignition,2.0L
