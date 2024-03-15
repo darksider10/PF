@@ -1,4 +1,3 @@
-![Portada](Imagenes/Portada.webp)
 
 
 # PROYECTO FINAL
