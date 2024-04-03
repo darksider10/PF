@@ -138,7 +138,7 @@ En este proyecto, la regresión ElasticNet se aplicó para predecir el costo tot
 ## Autores
 
 - **Nahuel Agnese** - Data Scientist
-- **Álvaro Lemus** - Data Analyst
+- **Álvaro Lemos** - Data Analyst
 - **Kevin Manchego** - Data Engineer
 - **Nicolás Salamanca** - Data Engineer
 
